@@ -9,4 +9,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0184-department-highest-salary](https://github.com/Ejaz0331/Leetcode/tree/main/0184-department-highest-salary/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Ejaz0331/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0607-sales-person](https://github.com/Ejaz0331/Leetcode/tree/main/0607-sales-person/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Ejaz0331/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 <!---LeetCode Topics End-->
