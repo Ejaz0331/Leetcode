@@ -18,4 +18,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3220-odd-and-even-transactions](https://github.com/Ejaz0331/Leetcode/tree/main/3220-odd-and-even-transactions/) | Medium |
 | [3436-find-valid-emails](https://github.com/Ejaz0331/Leetcode/tree/main/3436-find-valid-emails/) | Easy |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Ejaz0331/Leetcode/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ejaz0331/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ejaz0331/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
