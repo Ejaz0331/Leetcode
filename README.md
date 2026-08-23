@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0607-sales-person](https://github.com/Ejaz0331/Leetcode/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/Ejaz0331/Leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Ejaz0331/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Ejaz0331/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Ejaz0331/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Ejaz0331/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1934-confirmation-rate](https://github.com/Ejaz0331/Leetcode/tree/main/1934-confirmation-rate/) | Medium |
