@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Ejaz0331/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ejaz0331/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/Ejaz0331/Leetcode/tree/main/1407-top-travellers/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/Ejaz0331/Leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Ejaz0331/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1934-confirmation-rate](https://github.com/Ejaz0331/Leetcode/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Ejaz0331/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
