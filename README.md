@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0177-nth-highest-salary](https://github.com/Ejaz0331/Leetcode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/Ejaz0331/Leetcode/tree/main/0178-rank-scores/) | Medium |
 | [0184-department-highest-salary](https://github.com/Ejaz0331/Leetcode/tree/main/0184-department-highest-salary/) | Medium |
+| [0197-rising-temperature](https://github.com/Ejaz0331/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Ejaz0331/Leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/Ejaz0331/Leetcode/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Ejaz0331/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
