@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0627-swap-sex-of-employees](https://github.com/Ejaz0331/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Ejaz0331/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Ejaz0331/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1075-project-employees-i](https://github.com/Ejaz0331/Leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Ejaz0331/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Ejaz0331/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1934-confirmation-rate](https://github.com/Ejaz0331/Leetcode/tree/main/1934-confirmation-rate/) | Medium |
