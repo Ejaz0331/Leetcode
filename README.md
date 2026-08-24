@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1693-daily-leads-and-partners](https://github.com/Ejaz0331/Leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1729-find-followers-count](https://github.com/Ejaz0331/Leetcode/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Ejaz0331/Leetcode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Ejaz0331/Leetcode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Ejaz0331/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1934-confirmation-rate](https://github.com/Ejaz0331/Leetcode/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Ejaz0331/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
