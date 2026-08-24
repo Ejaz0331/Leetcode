@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-group-sold-products-by-the-date](https://github.com/Ejaz0331/Leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/Ejaz0331/Leetcode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Ejaz0331/Leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
+| [1587-bank-account-summary-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Ejaz0331/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1934-confirmation-rate](https://github.com/Ejaz0331/Leetcode/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Ejaz0331/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
