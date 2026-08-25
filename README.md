@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3521-find-product-recommendation-pairs](https://github.com/Ejaz0331/Leetcode/tree/main/3521-find-product-recommendation-pairs/) | Medium |
 | [3564-seasonal-sales-analysis](https://github.com/Ejaz0331/Leetcode/tree/main/3564-seasonal-sales-analysis/) | Medium |
 | [3570-find-books-with-no-available-copies](https://github.com/Ejaz0331/Leetcode/tree/main/3570-find-books-with-no-available-copies/) | Easy |
+| [3580-find-consistently-improving-employees](https://github.com/Ejaz0331/Leetcode/tree/main/3580-find-consistently-improving-employees/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
