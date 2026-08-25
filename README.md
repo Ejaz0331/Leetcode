@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1321-restaurant-growth](https://github.com/Ejaz0331/Leetcode/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Ejaz0331/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ejaz0331/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1393-capital-gainloss](https://github.com/Ejaz0331/Leetcode/tree/main/1393-capital-gainloss/) | Medium |
 | [1407-top-travellers](https://github.com/Ejaz0331/Leetcode/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/Ejaz0331/Leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/Ejaz0331/Leetcode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
