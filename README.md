@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Ejaz0331/Leetcode/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 | [3475-dna-pattern-recognition](https://github.com/Ejaz0331/Leetcode/tree/main/3475-dna-pattern-recognition/) | Medium |
 | [3497-analyze-subscription-conversion](https://github.com/Ejaz0331/Leetcode/tree/main/3497-analyze-subscription-conversion/) | Medium |
+| [3564-seasonal-sales-analysis](https://github.com/Ejaz0331/Leetcode/tree/main/3564-seasonal-sales-analysis/) | Medium |
 | [3570-find-books-with-no-available-copies](https://github.com/Ejaz0331/Leetcode/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
