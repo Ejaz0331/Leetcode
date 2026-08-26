@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0514-freedom-trail](https://github.com/Ejaz0331/Leetcode/tree/main/0514-freedom-trail/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -129,4 +132,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/Ejaz0331/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
