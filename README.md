@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0514-freedom-trail](https://github.com/Ejaz0331/Leetcode/tree/main/0514-freedom-trail/) | Hard |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/Ejaz0331/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ejaz0331/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -150,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0514-freedom-trail](https://github.com/Ejaz0331/Leetcode/tree/main/0514-freedom-trail/) | Hard |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,4 +192,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ejaz0331/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 <!---LeetCode Topics End-->
