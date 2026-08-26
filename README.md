@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0514-freedom-trail](https://github.com/Ejaz0331/Leetcode/tree/main/0514-freedom-trail/) | Hard |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0514-freedom-trail](https://github.com/Ejaz0331/Leetcode/tree/main/0514-freedom-trail/) | Hard |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
