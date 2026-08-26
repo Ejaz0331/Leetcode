@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ejaz0331/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0669-trim-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ejaz0331/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ejaz0331/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
