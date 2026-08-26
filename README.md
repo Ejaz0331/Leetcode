@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,9 +143,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ejaz0331/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -198,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ejaz0331/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,4 +234,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ejaz0331/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
