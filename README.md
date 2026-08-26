@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ejaz0331/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ejaz0331/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ejaz0331/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ejaz0331/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
