@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
