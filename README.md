@@ -97,10 +97,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Ejaz0331/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0514-freedom-trail](https://github.com/Ejaz0331/Leetcode/tree/main/0514-freedom-trail/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Ejaz0331/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/Ejaz0331/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0514-freedom-trail](https://github.com/Ejaz0331/Leetcode/tree/main/0514-freedom-trail/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -132,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0514-freedom-trail](https://github.com/Ejaz0331/Leetcode/tree/main/0514-freedom-trail/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -147,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Ejaz0331/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ejaz0331/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
