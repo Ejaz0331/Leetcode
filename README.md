@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ejaz0331/Leetcode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/Ejaz0331/Leetcode/tree/main/1620-coordinate-with-maximum-network-quality/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Ejaz0331/Leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
+| [1629-slowest-key](https://github.com/Ejaz0331/Leetcode/tree/main/1629-slowest-key/) | Easy |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0514-freedom-trail](https://github.com/Ejaz0331/Leetcode/tree/main/0514-freedom-trail/) | Hard |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
+| [1629-slowest-key](https://github.com/Ejaz0331/Leetcode/tree/main/1629-slowest-key/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
