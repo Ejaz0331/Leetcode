@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1640-check-array-formation-through-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/Ejaz0331/Leetcode/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Ejaz0331/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1630-arithmetic-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1640-check-array-formation-through-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
+| [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ejaz0331/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## String
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0514-freedom-trail](https://github.com/Ejaz0331/Leetcode/tree/main/0514-freedom-trail/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Ejaz0331/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -353,4 +358,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1652-defuse-the-bomb](https://github.com/Ejaz0331/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 <!---LeetCode Topics End-->
