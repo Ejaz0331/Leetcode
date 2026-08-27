@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1630-arithmetic-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1640-check-array-formation-through-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1640-check-array-formation-through-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ejaz0331/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## String
