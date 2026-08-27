@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ejaz0331/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [1670-design-front-middle-back-queue](https://github.com/Ejaz0331/Leetcode/tree/main/1670-design-front-middle-back-queue/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-design-an-ordered-stream](https://github.com/Ejaz0331/Leetcode/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ejaz0331/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/Ejaz0331/Leetcode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
+| [1670-design-front-middle-back-queue](https://github.com/Ejaz0331/Leetcode/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ejaz0331/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/Ejaz0331/Leetcode/tree/main/1656-design-an-ordered-stream/) | Easy |
+| [1670-design-front-middle-back-queue](https://github.com/Ejaz0331/Leetcode/tree/main/1670-design-front-middle-back-queue/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ejaz0331/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/Ejaz0331/Leetcode/tree/main/1656-design-an-ordered-stream/) | Easy |
+| [1670-design-front-middle-back-queue](https://github.com/Ejaz0331/Leetcode/tree/main/1670-design-front-middle-back-queue/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -380,4 +384,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ejaz0331/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/Ejaz0331/Leetcode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1670-design-front-middle-back-queue](https://github.com/Ejaz0331/Leetcode/tree/main/1670-design-front-middle-back-queue/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1670-design-front-middle-back-queue](https://github.com/Ejaz0331/Leetcode/tree/main/1670-design-front-middle-back-queue/) | Medium |
 <!---LeetCode Topics End-->
