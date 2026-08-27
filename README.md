@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ejaz0331/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/Ejaz0331/Leetcode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1670-design-front-middle-back-queue](https://github.com/Ejaz0331/Leetcode/tree/main/1670-design-front-middle-back-queue/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/Ejaz0331/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ejaz0331/Leetcode/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/Ejaz0331/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Flow Network
 | Problem Name | Difficulty |
 | ------- | ------- |
