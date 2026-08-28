@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Ejaz0331/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Ejaz0331/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Ejaz0331/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0514-freedom-trail](https://github.com/Ejaz0331/Leetcode/tree/main/0514-freedom-trail/) | Hard |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1629-slowest-key](https://github.com/Ejaz0331/Leetcode/tree/main/1629-slowest-key/) | Easy |
 ## Dynamic Programming
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
@@ -442,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0851-loud-and-rich](https://github.com/Ejaz0331/Leetcode/tree/main/0851-loud-and-rich/) | Medium |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -454,4 +458,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Ejaz0331/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 <!---LeetCode Topics End-->
