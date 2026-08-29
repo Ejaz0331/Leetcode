@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ejaz0331/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/Ejaz0331/Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0851-loud-and-rich](https://github.com/Ejaz0331/Leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ejaz0331/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -215,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Ejaz0331/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Ejaz0331/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
@@ -263,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/Ejaz0331/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Ejaz0331/Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Ejaz0331/Leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ejaz0331/Leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
@@ -363,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -499,4 +505,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ejaz0331/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 <!---LeetCode Topics End-->
