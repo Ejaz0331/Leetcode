@@ -289,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Ejaz0331/Leetcode/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/Ejaz0331/Leetcode/tree/main/0967-numbers-with-same-consecutive-differences/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Ejaz0331/Leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ejaz0331/Leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/Ejaz0331/Leetcode/tree/main/0967-numbers-with-same-consecutive-differences/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
