@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0655-print-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0655-print-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [0690-employee-importance](https://github.com/Ejaz0331/Leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ejaz0331/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0672-bulb-switcher-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [0684-redundant-connection](https://github.com/Ejaz0331/Leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0685-redundant-connection-ii/) | Hard |
+| [0690-employee-importance](https://github.com/Ejaz0331/Leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Ejaz0331/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0529-minesweeper](https://github.com/Ejaz0331/Leetcode/tree/main/0529-minesweeper/) | Medium |
 | [0542-01-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0690-employee-importance](https://github.com/Ejaz0331/Leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0851-loud-and-rich](https://github.com/Ejaz0331/Leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Ejaz0331/Leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0934-shortest-bridge](https://github.com/Ejaz0331/Leetcode/tree/main/0934-shortest-bridge/) | Medium |
@@ -294,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Ejaz0331/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/Ejaz0331/Leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0690-employee-importance](https://github.com/Ejaz0331/Leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Ejaz0331/Leetcode/tree/main/0959-regions-cut-by-slashes/) | Medium |
@@ -376,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0672-bulb-switcher-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [0684-redundant-connection](https://github.com/Ejaz0331/Leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0685-redundant-connection-ii/) | Hard |
+| [0690-employee-importance](https://github.com/Ejaz0331/Leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Ejaz0331/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
