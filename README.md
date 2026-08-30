@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0965-univalued-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1020-number-of-enclaves](https://github.com/Ejaz0331/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1034-coloring-a-border](https://github.com/Ejaz0331/Leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Ejaz0331/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Ejaz0331/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1034-coloring-a-border](https://github.com/Ejaz0331/Leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1046-last-stone-weight](https://github.com/Ejaz0331/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Ejaz0331/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
@@ -416,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0993-cousins-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/Ejaz0331/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Ejaz0331/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1034-coloring-a-border](https://github.com/Ejaz0331/Leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Ejaz0331/Leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ejaz0331/Leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
@@ -556,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0959-regions-cut-by-slashes](https://github.com/Ejaz0331/Leetcode/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0994-rotting-oranges](https://github.com/Ejaz0331/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Ejaz0331/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1034-coloring-a-border](https://github.com/Ejaz0331/Leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ejaz0331/Leetcode/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Ejaz0331/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
