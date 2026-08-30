@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1992-find-all-groups-of-farmland](https://github.com/Ejaz0331/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [1993-operations-on-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1993-operations-on-tree/) | Medium |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Ejaz0331/Leetcode/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
+| [2059-minimum-operations-to-convert-number](https://github.com/Ejaz0331/Leetcode/tree/main/2059-minimum-operations-to-convert-number/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ejaz0331/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
@@ -528,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1992-find-all-groups-of-farmland](https://github.com/Ejaz0331/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [1993-operations-on-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1993-operations-on-tree/) | Medium |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Ejaz0331/Leetcode/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
+| [2059-minimum-operations-to-convert-number](https://github.com/Ejaz0331/Leetcode/tree/main/2059-minimum-operations-to-convert-number/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ejaz0331/Leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
