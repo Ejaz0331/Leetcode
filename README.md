@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-deepest-leaves-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ejaz0331/Leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1361-validate-binary-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ejaz0331/Leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ejaz0331/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1361-validate-binary-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Ejaz0331/Leetcode/tree/main/1462-course-schedule-iv/) | Medium |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-deepest-leaves-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ejaz0331/Leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1361-validate-binary-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
@@ -465,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1311-get-watched-videos-by-your-friends](https://github.com/Ejaz0331/Leetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ejaz0331/Leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ejaz0331/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1361-validate-binary-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Ejaz0331/Leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ejaz0331/Leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
@@ -643,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/Ejaz0331/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Ejaz0331/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ejaz0331/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1361-validate-binary-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Ejaz0331/Leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Number Theory
@@ -706,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-shortest-path-with-alternating-colors](https://github.com/Ejaz0331/Leetcode/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Ejaz0331/Leetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ejaz0331/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1361-validate-binary-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Ejaz0331/Leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ejaz0331/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
