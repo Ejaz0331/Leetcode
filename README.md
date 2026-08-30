@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Ejaz0331/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Ejaz0331/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0365-water-and-jug-problem](https://github.com/Ejaz0331/Leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0399-evaluate-division](https://github.com/Ejaz0331/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ejaz0331/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0514-freedom-trail](https://github.com/Ejaz0331/Leetcode/tree/main/0514-freedom-trail/) | Hard |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
