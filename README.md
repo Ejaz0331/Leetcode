@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0672-bulb-switcher-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
+| [0684-redundant-connection](https://github.com/Ejaz0331/Leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Ejaz0331/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0655-print-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0655-print-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0672-bulb-switcher-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
+| [0684-redundant-connection](https://github.com/Ejaz0331/Leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Ejaz0331/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -541,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Ejaz0331/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0399-evaluate-division](https://github.com/Ejaz0331/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Ejaz0331/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/Ejaz0331/Leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0886-possible-bipartition](https://github.com/Ejaz0331/Leetcode/tree/main/0886-possible-bipartition/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Ejaz0331/Leetcode/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Ejaz0331/Leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
@@ -592,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0399-evaluate-division](https://github.com/Ejaz0331/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Ejaz0331/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/Ejaz0331/Leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Ejaz0331/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Ejaz0331/Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
