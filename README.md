@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1905-count-sub-islands](https://github.com/Ejaz0331/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ejaz0331/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [1992-find-all-groups-of-farmland](https://github.com/Ejaz0331/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ejaz0331/Leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Binary Tree
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1905-count-sub-islands](https://github.com/Ejaz0331/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ejaz0331/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
+| [1992-find-all-groups-of-farmland](https://github.com/Ejaz0331/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ejaz0331/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
@@ -518,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1905-count-sub-islands](https://github.com/Ejaz0331/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ejaz0331/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ejaz0331/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [1992-find-all-groups-of-farmland](https://github.com/Ejaz0331/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ejaz0331/Leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -676,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/Ejaz0331/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1905-count-sub-islands](https://github.com/Ejaz0331/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ejaz0331/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [1992-find-all-groups-of-farmland](https://github.com/Ejaz0331/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 ## Flow Network
 | Problem Name | Difficulty |
 | ------- | ------- |
