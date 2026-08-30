@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ejaz0331/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0130-surrounded-regions](https://github.com/Ejaz0331/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/Ejaz0331/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0310-minimum-height-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Ejaz0331/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0851-loud-and-rich](https://github.com/Ejaz0331/Leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Ejaz0331/Leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ejaz0331/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [0130-surrounded-regions](https://github.com/Ejaz0331/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/Ejaz0331/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0310-minimum-height-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
@@ -442,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Ejaz0331/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0909-snakes-and-ladders](https://github.com/Ejaz0331/Leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0934-shortest-bridge](https://github.com/Ejaz0331/Leetcode/tree/main/0934-shortest-bridge/) | Medium |
@@ -461,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Ejaz0331/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0886-possible-bipartition](https://github.com/Ejaz0331/Leetcode/tree/main/0886-possible-bipartition/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Ejaz0331/Leetcode/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Ejaz0331/Leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
