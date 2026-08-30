@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0690-employee-importance](https://github.com/Ejaz0331/Leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0721-accounts-merge](https://github.com/Ejaz0331/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Ejaz0331/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/Ejaz0331/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Ejaz0331/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0690-employee-importance](https://github.com/Ejaz0331/Leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0721-accounts-merge](https://github.com/Ejaz0331/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Ejaz0331/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/Ejaz0331/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Ejaz0331/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ejaz0331/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0743-network-delay-time](https://github.com/Ejaz0331/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [1046-last-stone-weight](https://github.com/Ejaz0331/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Data Stream
@@ -574,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/Ejaz0331/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ejaz0331/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Sliding Window
@@ -616,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Ejaz0331/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Ejaz0331/Leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0685-redundant-connection-ii/) | Hard |
+| [0743-network-delay-time](https://github.com/Ejaz0331/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Ejaz0331/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Ejaz0331/Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -674,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/Ejaz0331/Leetcode/tree/main/0399-evaluate-division/) | Medium |
+| [0743-network-delay-time](https://github.com/Ejaz0331/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ejaz0331/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
