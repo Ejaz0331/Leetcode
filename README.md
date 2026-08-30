@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ejaz0331/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Ejaz0331/Leetcode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ejaz0331/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ejaz0331/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -429,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ejaz0331/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Ejaz0331/Leetcode/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Ejaz0331/Leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ejaz0331/Leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
