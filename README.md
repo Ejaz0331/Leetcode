@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1361-validate-binary-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ejaz0331/Leetcode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1361-validate-binary-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ejaz0331/Leetcode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Ejaz0331/Leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ejaz0331/Leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
@@ -472,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ejaz0331/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ejaz0331/Leetcode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1462-course-schedule-iv](https://github.com/Ejaz0331/Leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ejaz0331/Leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
