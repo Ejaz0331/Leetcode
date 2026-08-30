@@ -340,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1640-check-array-formation-through-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/Ejaz0331/Leetcode/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Ejaz0331/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Ejaz0331/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1656-design-an-ordered-stream](https://github.com/Ejaz0331/Leetcode/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ejaz0331/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1630-arithmetic-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1640-check-array-formation-through-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Ejaz0331/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1656-design-an-ordered-stream](https://github.com/Ejaz0331/Leetcode/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ejaz0331/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -508,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1609-even-odd-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1609-even-odd-tree/) | Medium |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Ejaz0331/Leetcode/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Ejaz0331/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ejaz0331/Leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
