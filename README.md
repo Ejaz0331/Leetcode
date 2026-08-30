@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Ejaz0331/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ejaz0331/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+| [0463-island-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0514-freedom-trail](https://github.com/Ejaz0331/Leetcode/tree/main/0514-freedom-trail/) | Hard |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0399-evaluate-division](https://github.com/Ejaz0331/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ejaz0331/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0463-island-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0851-loud-and-rich](https://github.com/Ejaz0331/Leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Ejaz0331/Leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0934-shortest-bridge](https://github.com/Ejaz0331/Leetcode/tree/main/0934-shortest-bridge/) | Medium |
@@ -329,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/Ejaz0331/Leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+| [0463-island-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0514-freedom-trail](https://github.com/Ejaz0331/Leetcode/tree/main/0514-freedom-trail/) | Hard |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -476,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Ejaz0331/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ejaz0331/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0463-island-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/Ejaz0331/Leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0934-shortest-bridge](https://github.com/Ejaz0331/Leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Ejaz0331/Leetcode/tree/main/0959-regions-cut-by-slashes/) | Medium |
