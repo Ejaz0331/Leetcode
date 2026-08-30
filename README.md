@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-minimum-operations-to-convert-number](https://github.com/Ejaz0331/Leetcode/tree/main/2059-minimum-operations-to-convert-number/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ejaz0331/Leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ejaz0331/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ejaz0331/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -533,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Ejaz0331/Leetcode/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
 | [2059-minimum-operations-to-convert-number](https://github.com/Ejaz0331/Leetcode/tree/main/2059-minimum-operations-to-convert-number/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ejaz0331/Leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ejaz0331/Leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -619,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/Ejaz0331/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [1046-last-stone-weight](https://github.com/Ejaz0331/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -641,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ejaz0331/Leetcode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1630-arithmetic-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -694,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1905-count-sub-islands](https://github.com/Ejaz0331/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ejaz0331/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1992-find-all-groups-of-farmland](https://github.com/Ejaz0331/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
 ## Flow Network
 | Problem Name | Difficulty |
 | ------- | ------- |
