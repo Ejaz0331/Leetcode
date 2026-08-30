@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ejaz0331/Leetcode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Ejaz0331/Leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/Ejaz0331/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Ejaz0331/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Ejaz0331/Leetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ejaz0331/Leetcode/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ejaz0331/Leetcode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
@@ -476,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1361-validate-binary-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ejaz0331/Leetcode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Ejaz0331/Leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ejaz0331/Leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
@@ -626,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Ejaz0331/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Ejaz0331/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ejaz0331/Leetcode/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Ejaz0331/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -655,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1267-count-servers-that-communicate](https://github.com/Ejaz0331/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ejaz0331/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Ejaz0331/Leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Number Theory
