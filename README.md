@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ejaz0331/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0547-number-of-provinces](https://github.com/Ejaz0331/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0542-01-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Ejaz0331/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
