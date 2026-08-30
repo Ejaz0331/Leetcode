@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/Ejaz0331/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1034-coloring-a-border](https://github.com/Ejaz0331/Leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Ejaz0331/Leetcode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Ejaz0331/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Ejaz0331/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1034-coloring-a-border](https://github.com/Ejaz0331/Leetcode/tree/main/1034-coloring-a-border/) | Medium |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Ejaz0331/Leetcode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Ejaz0331/Leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ejaz0331/Leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
@@ -643,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/Ejaz0331/Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0851-loud-and-rich](https://github.com/Ejaz0331/Leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0886-possible-bipartition](https://github.com/Ejaz0331/Leetcode/tree/main/0886-possible-bipartition/) | Medium |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Ejaz0331/Leetcode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Ejaz0331/Leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ejaz0331/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -711,6 +714,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/Ejaz0331/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/Ejaz0331/Leetcode/tree/main/0886-possible-bipartition/) | Medium |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Ejaz0331/Leetcode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 ## Bipartite Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
