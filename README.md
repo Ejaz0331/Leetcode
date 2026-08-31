@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3528-unit-conversion-i](https://github.com/Ejaz0331/Leetcode/tree/main/3528-unit-conversion-i/) | Medium |
+| [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ejaz0331/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -460,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ejaz0331/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -634,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3528-unit-conversion-i](https://github.com/Ejaz0331/Leetcode/tree/main/3528-unit-conversion-i/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -728,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3123-find-edges-in-shortest-paths](https://github.com/Ejaz0331/Leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -857,6 +862,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-count-the-number-of-complete-components](https://github.com/Ejaz0331/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
+| [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -949,6 +955,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3528-unit-conversion-i](https://github.com/Ejaz0331/Leetcode/tree/main/3528-unit-conversion-i/) | Medium |
+| [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1072,4 +1079,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ejaz0331/Leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
 <!---LeetCode Topics End-->
