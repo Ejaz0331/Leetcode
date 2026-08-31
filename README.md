@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3528-unit-conversion-i](https://github.com/Ejaz0331/Leetcode/tree/main/3528-unit-conversion-i/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ejaz0331/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -422,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ejaz0331/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ejaz0331/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -638,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ejaz0331/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -821,6 +824,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ejaz0331/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Flow Network
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -863,6 +867,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ejaz0331/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
