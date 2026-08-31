@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ejaz0331/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ejaz0331/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [1670-design-front-middle-back-queue](https://github.com/Ejaz0331/Leetcode/tree/main/1670-design-front-middle-back-queue/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0133-clone-graph](https://github.com/Ejaz0331/Leetcode/tree/main/0133-clone-graph/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0409-longest-palindrome](https://github.com/Ejaz0331/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/Ejaz0331/Leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -748,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0086-partition-list](https://github.com/Ejaz0331/Leetcode/tree/main/0086-partition-list/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 ## Heap (Priority Queue)
@@ -1124,4 +1127,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
