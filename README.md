@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ejaz0331/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/Ejaz0331/Leetcode/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0445-add-two-numbers-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0460-lfu-cache](https://github.com/Ejaz0331/Leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [1670-design-front-middle-back-queue](https://github.com/Ejaz0331/Leetcode/tree/main/1670-design-front-middle-back-queue/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -467,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Ejaz0331/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0432-all-oone-data-structure](https://github.com/Ejaz0331/Leetcode/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/Ejaz0331/Leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0460-lfu-cache](https://github.com/Ejaz0331/Leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0690-employee-importance](https://github.com/Ejaz0331/Leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0721-accounts-merge](https://github.com/Ejaz0331/Leetcode/tree/main/0721-accounts-merge/) | Medium |
@@ -765,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/Ejaz0331/Leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/Ejaz0331/Leetcode/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+| [0460-lfu-cache](https://github.com/Ejaz0331/Leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ejaz0331/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0919-complete-binary-tree-inserter](https://github.com/Ejaz0331/Leetcode/tree/main/0919-complete-binary-tree-inserter/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
@@ -986,6 +989,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Ejaz0331/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ejaz0331/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/Ejaz0331/Leetcode/tree/main/0432-all-oone-data-structure/) | Hard |
+| [0460-lfu-cache](https://github.com/Ejaz0331/Leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [1670-design-front-middle-back-queue](https://github.com/Ejaz0331/Leetcode/tree/main/1670-design-front-middle-back-queue/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
