@@ -97,12 +97,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0147-insertion-sort-list](https://github.com/Ejaz0331/Leetcode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Ejaz0331/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ejaz0331/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/Ejaz0331/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [1670-design-front-middle-back-queue](https://github.com/Ejaz0331/Leetcode/tree/main/1670-design-front-middle-back-queue/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ejaz0331/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/Ejaz0331/Leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/Ejaz0331/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
