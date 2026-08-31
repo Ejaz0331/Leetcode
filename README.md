@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Ejaz0331/Leetcode/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
+| [2641-cousins-in-binary-tree-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ejaz0331/Leetcode/tree/main/2493-divide-nodes-into-the-maximum-number-of-groups/) | Hard |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Ejaz0331/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [2641-cousins-in-binary-tree-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ejaz0331/Leetcode/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
+| [2641-cousins-in-binary-tree-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -431,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ejaz0331/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Ejaz0331/Leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ejaz0331/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2641-cousins-in-binary-tree-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ejaz0331/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -581,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Ejaz0331/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [2641-cousins-in-binary-tree-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
