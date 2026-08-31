@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ejaz0331/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
@@ -569,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Ejaz0331/Leetcode/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ejaz0331/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ejaz0331/Leetcode/tree/main/2493-divide-nodes-into-the-maximum-number-of-groups/) | Hard |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -647,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -655,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/Ejaz0331/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -678,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1630-arithmetic-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -732,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ejaz0331/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1992-find-all-groups-of-farmland](https://github.com/Ejaz0331/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 ## Flow Network
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -768,6 +774,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2368-reachable-nodes-with-restrictions](https://github.com/Ejaz0331/Leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ejaz0331/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ejaz0331/Leetcode/tree/main/2493-divide-nodes-into-the-maximum-number-of-groups/) | Hard |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
