@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Ejaz0331/Leetcode/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ejaz0331/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ejaz0331/Leetcode/tree/main/2493-divide-nodes-into-the-maximum-number-of-groups/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -567,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ejaz0331/Leetcode/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Ejaz0331/Leetcode/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ejaz0331/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ejaz0331/Leetcode/tree/main/2493-divide-nodes-into-the-maximum-number-of-groups/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -765,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1971-find-if-path-exists-in-graph](https://github.com/Ejaz0331/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Ejaz0331/Leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ejaz0331/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ejaz0331/Leetcode/tree/main/2493-divide-nodes-into-the-maximum-number-of-groups/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -841,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2467-most-profitable-path-in-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Ejaz0331/Leetcode/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ejaz0331/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ejaz0331/Leetcode/tree/main/2493-divide-nodes-into-the-maximum-number-of-groups/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
