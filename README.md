@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ejaz0331/Leetcode/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Ejaz0331/Leetcode/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ejaz0331/Leetcode/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -575,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ejaz0331/Leetcode/tree/main/2493-divide-nodes-into-the-maximum-number-of-groups/) | Hard |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -687,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
