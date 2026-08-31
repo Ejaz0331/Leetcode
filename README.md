@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Hard |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Ejaz0331/Leetcode/tree/main/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
+| [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Ejaz0331/Leetcode/tree/main/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
+| [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ejaz0331/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -452,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2368-reachable-nodes-with-restrictions](https://github.com/Ejaz0331/Leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ejaz0331/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
+| [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ejaz0331/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -622,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Ejaz0331/Leetcode/tree/main/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
+| [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -842,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Ejaz0331/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -931,6 +936,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3310-remove-methods-from-project](https://github.com/Ejaz0331/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Ejaz0331/Leetcode/tree/main/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
+| [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
