@@ -405,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Ejaz0331/Leetcode/tree/main/3243-shortest-distance-after-road-addition-queries-i/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ejaz0331/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -603,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ejaz0331/Leetcode/tree/main/3015-count-the-number-of-houses-at-a-certain-distance-i/) | Medium |
 | [3123-find-edges-in-shortest-paths](https://github.com/Ejaz0331/Leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Ejaz0331/Leetcode/tree/main/3243-shortest-distance-after-road-addition-queries-i/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -694,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3123-find-edges-in-shortest-paths](https://github.com/Ejaz0331/Leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -779,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2596-check-knight-tour-configuration](https://github.com/Ejaz0331/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Flow Network
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -902,6 +906,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ejaz0331/Leetcode/tree/main/3015-count-the-number-of-houses-at-a-certain-distance-i/) | Medium |
 | [3123-find-edges-in-shortest-paths](https://github.com/Ejaz0331/Leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Ejaz0331/Leetcode/tree/main/3243-shortest-distance-after-road-addition-queries-i/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -954,6 +959,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/Ejaz0331/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ejaz0331/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3123-find-edges-in-shortest-paths](https://github.com/Ejaz0331/Leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
