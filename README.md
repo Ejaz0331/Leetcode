@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-operations-on-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1993-operations-on-tree/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Ejaz0331/Leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ejaz0331/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ejaz0331/Leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Ejaz0331/Leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ejaz0331/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1609-even-odd-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1609-even-odd-tree/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ejaz0331/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -546,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ejaz0331/Leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Ejaz0331/Leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ejaz0331/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
