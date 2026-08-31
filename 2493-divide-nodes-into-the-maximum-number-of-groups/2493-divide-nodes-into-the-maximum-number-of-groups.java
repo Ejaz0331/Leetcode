@@ -9,7 +9,6 @@ class Solution {
             adj[edge[1]].add(edge[0]);
         }
 
-        // 1. Check bipartiteness and find connected components
         int[] color = new int[n + 1];
         List<List<Integer>> components = new ArrayList<>();
 
@@ -23,13 +22,13 @@ class Solution {
             }
         }
 
-        // 2. For each node, find max depth using BFS
+        
         int[] maxDepth = new int[n + 1];
         for (int i = 1; i <= n; i++) {
             maxDepth[i] = bfs(i, n, adj);
         }
 
-        // 3. Sum up the maximum groups for each component
+        
         int totalGroups = 0;
         for (List<Integer> component : components) {
             int maxGroupsInComponent = 0;
