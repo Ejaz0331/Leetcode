@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ejaz0331/Leetcode/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ejaz0331/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ejaz0331/Leetcode/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -559,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ejaz0331/Leetcode/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
