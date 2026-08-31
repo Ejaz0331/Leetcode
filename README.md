@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2641-cousins-in-binary-tree-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Ejaz0331/Leetcode/tree/main/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Medium |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Hard |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/3820-pythagorean-distance-nodes-in-a-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -649,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ejaz0331/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 | [3690-split-and-merge-array-transformation](https://github.com/Ejaz0331/Leetcode/tree/main/3690-split-and-merge-array-transformation/) | Medium |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/3820-pythagorean-distance-nodes-in-a-tree/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
