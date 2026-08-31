@@ -400,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Ejaz0331/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ejaz0331/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
@@ -591,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2641-cousins-in-binary-tree-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Ejaz0331/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -635,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ejaz0331/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -679,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -763,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Ejaz0331/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Flow Network
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -802,6 +807,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Ejaz0331/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
