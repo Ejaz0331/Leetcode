@@ -428,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ejaz0331/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3690-split-and-merge-array-transformation](https://github.com/Ejaz0331/Leetcode/tree/main/3690-split-and-merge-array-transformation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ejaz0331/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3905-multi-source-flood-fill](https://github.com/Ejaz0331/Leetcode/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -651,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 | [3690-split-and-merge-array-transformation](https://github.com/Ejaz0331/Leetcode/tree/main/3690-split-and-merge-array-transformation/) | Medium |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/3820-pythagorean-distance-nodes-in-a-tree/) | Medium |
+| [3905-multi-source-flood-fill](https://github.com/Ejaz0331/Leetcode/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -837,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ejaz0331/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3905-multi-source-flood-fill](https://github.com/Ejaz0331/Leetcode/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Flow Network
 | Problem Name | Difficulty |
 | ------- | ------- |
