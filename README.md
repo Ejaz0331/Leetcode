@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-count-the-number-of-complete-components](https://github.com/Ejaz0331/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ejaz0331/Leetcode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3123-find-edges-in-shortest-paths](https://github.com/Ejaz0331/Leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
+| [3310-remove-methods-from-project](https://github.com/Ejaz0331/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -605,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3123-find-edges-in-shortest-paths](https://github.com/Ejaz0331/Leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Ejaz0331/Leetcode/tree/main/3243-shortest-distance-after-road-addition-queries-i/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Ejaz0331/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -907,6 +909,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3123-find-edges-in-shortest-paths](https://github.com/Ejaz0331/Leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Ejaz0331/Leetcode/tree/main/3243-shortest-distance-after-road-addition-queries-i/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Ejaz0331/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
