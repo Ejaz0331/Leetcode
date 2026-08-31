@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Ejaz0331/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ejaz0331/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0355-design-twitter](https://github.com/Ejaz0331/Leetcode/tree/main/0355-design-twitter/) | Medium |
+| [0382-linked-list-random-node](https://github.com/Ejaz0331/Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
 | [1670-design-front-middle-back-queue](https://github.com/Ejaz0331/Leetcode/tree/main/1670-design-front-middle-back-queue/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -693,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0279-perfect-squares](https://github.com/Ejaz0331/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/Ejaz0331/Leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0382-linked-list-random-node](https://github.com/Ejaz0331/Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0672-bulb-switcher-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Ejaz0331/Leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ejaz0331/Leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
@@ -1163,4 +1165,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Ejaz0331/Leetcode/tree/main/0148-sort-list/) | Medium |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/Ejaz0331/Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/Ejaz0331/Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
 <!---LeetCode Topics End-->
