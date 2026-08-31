@@ -486,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1629-slowest-key](https://github.com/Ejaz0331/Leetcode/tree/main/1629-slowest-key/) | Easy |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ejaz0331/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Ejaz0331/Leetcode/tree/main/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -644,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ejaz0331/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ejaz0331/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -661,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1627-graph-connectivity-with-threshold](https://github.com/Ejaz0331/Leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ejaz0331/Leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ejaz0331/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -872,6 +875,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ejaz0331/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1093,4 +1097,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 <!---LeetCode Topics End-->
