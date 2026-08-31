@@ -598,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ejaz0331/Leetcode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ejaz0331/Leetcode/tree/main/3015-count-the-number-of-houses-at-a-certain-distance-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -844,6 +845,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ejaz0331/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/Ejaz0331/Leetcode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ejaz0331/Leetcode/tree/main/3015-count-the-number-of-houses-at-a-certain-distance-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -892,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ejaz0331/Leetcode/tree/main/2493-divide-nodes-into-the-maximum-number-of-groups/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/Ejaz0331/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ejaz0331/Leetcode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ejaz0331/Leetcode/tree/main/3015-count-the-number-of-houses-at-a-certain-distance-i/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
