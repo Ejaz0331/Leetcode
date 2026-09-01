@@ -453,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/3112-minimum-time-to-visit-disappearing-nodes/) | Medium |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Ejaz0331/Leetcode/tree/main/3243-shortest-distance-after-road-addition-queries-i/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ejaz0331/Leetcode/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Ejaz0331/Leetcode/tree/main/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
@@ -831,6 +832,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/3112-minimum-time-to-visit-disappearing-nodes/) | Medium |
 | [3123-find-edges-in-shortest-paths](https://github.com/Ejaz0331/Leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ejaz0331/Leetcode/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -922,6 +924,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ejaz0331/Leetcode/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ejaz0331/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -1079,6 +1082,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Ejaz0331/Leetcode/tree/main/3243-shortest-distance-after-road-addition-queries-i/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Ejaz0331/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ejaz0331/Leetcode/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Ejaz0331/Leetcode/tree/main/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
@@ -1147,6 +1151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/3112-minimum-time-to-visit-disappearing-nodes/) | Medium |
 | [3123-find-edges-in-shortest-paths](https://github.com/Ejaz0331/Leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ejaz0331/Leetcode/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
