@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0690-employee-importance](https://github.com/Ejaz0331/Leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ejaz0331/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ejaz0331/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0721-accounts-merge](https://github.com/Ejaz0331/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Ejaz0331/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0752-open-the-lock](https://github.com/Ejaz0331/Leetcode/tree/main/0752-open-the-lock/) | Medium |
@@ -669,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0688-knight-probability-in-chessboard](https://github.com/Ejaz0331/Leetcode/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ejaz0331/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ejaz0331/Leetcode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ejaz0331/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0808-soup-servings](https://github.com/Ejaz0331/Leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Ejaz0331/Leetcode/tree/main/0837-new-21-game/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
@@ -839,6 +841,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Ejaz0331/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ejaz0331/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Ejaz0331/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ejaz0331/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ejaz0331/Leetcode/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
