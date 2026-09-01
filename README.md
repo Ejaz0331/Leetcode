@@ -406,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0526-beautiful-arrangement](https://github.com/Ejaz0331/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0529-minesweeper](https://github.com/Ejaz0331/Leetcode/tree/main/0529-minesweeper/) | Medium |
 | [0542-01-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0546-remove-boxes](https://github.com/Ejaz0331/Leetcode/tree/main/0546-remove-boxes/) | Hard |
 | [0622-design-circular-queue](https://github.com/Ejaz0331/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0690-employee-importance](https://github.com/Ejaz0331/Leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0721-accounts-merge](https://github.com/Ejaz0331/Leetcode/tree/main/0721-accounts-merge/) | Medium |
@@ -642,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Ejaz0331/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0542-01-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0546-remove-boxes](https://github.com/Ejaz0331/Leetcode/tree/main/0546-remove-boxes/) | Hard |
 | [0808-soup-servings](https://github.com/Ejaz0331/Leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Ejaz0331/Leetcode/tree/main/0837-new-21-game/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
@@ -1299,6 +1301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Ejaz0331/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0464-can-i-win](https://github.com/Ejaz0331/Leetcode/tree/main/0464-can-i-win/) | Medium |
+| [0546-remove-boxes](https://github.com/Ejaz0331/Leetcode/tree/main/0546-remove-boxes/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
