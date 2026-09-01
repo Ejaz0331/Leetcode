@@ -615,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0413-arithmetic-slices](https://github.com/Ejaz0331/Leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Ejaz0331/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0464-can-i-win](https://github.com/Ejaz0331/Leetcode/tree/main/0464-can-i-win/) | Medium |
 | [0514-freedom-trail](https://github.com/Ejaz0331/Leetcode/tree/main/0514-freedom-trail/) | Hard |
 | [0542-01-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0808-soup-servings](https://github.com/Ejaz0331/Leetcode/tree/main/0808-soup-servings/) | Medium |
@@ -801,6 +802,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0365-water-and-jug-problem](https://github.com/Ejaz0331/Leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0382-linked-list-random-node](https://github.com/Ejaz0331/Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0464-can-i-win](https://github.com/Ejaz0331/Leetcode/tree/main/0464-can-i-win/) | Medium |
 | [0672-bulb-switcher-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [0808-soup-servings](https://github.com/Ejaz0331/Leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Ejaz0331/Leetcode/tree/main/0837-new-21-game/) | Medium |
@@ -1130,6 +1132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0464-can-i-win](https://github.com/Ejaz0331/Leetcode/tree/main/0464-can-i-win/) | Medium |
 | [0672-bulb-switcher-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
@@ -1142,6 +1145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0464-can-i-win](https://github.com/Ejaz0331/Leetcode/tree/main/0464-can-i-win/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Prefix Sum
@@ -1260,6 +1264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0139-word-break](https://github.com/Ejaz0331/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0464-can-i-win](https://github.com/Ejaz0331/Leetcode/tree/main/0464-can-i-win/) | Medium |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
@@ -1430,4 +1435,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Ejaz0331/Leetcode/tree/main/0139-word-break/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0464-can-i-win](https://github.com/Ejaz0331/Leetcode/tree/main/0464-can-i-win/) | Medium |
 <!---LeetCode Topics End-->
