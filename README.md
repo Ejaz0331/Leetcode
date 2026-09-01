@@ -379,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Ejaz0331/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Ejaz0331/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/Ejaz0331/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0322-coin-change](https://github.com/Ejaz0331/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -578,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/Ejaz0331/Leetcode/tree/main/0072-edit-distance/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Ejaz0331/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0279-perfect-squares](https://github.com/Ejaz0331/Leetcode/tree/main/0279-perfect-squares/) | Medium |
@@ -833,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ejaz0331/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Ejaz0331/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Ejaz0331/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ejaz0331/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/Ejaz0331/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Ejaz0331/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
@@ -911,6 +914,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Ejaz0331/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Ejaz0331/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 ## Sorting
@@ -971,6 +975,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Ejaz0331/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/Ejaz0331/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ejaz0331/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
