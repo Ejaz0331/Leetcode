@@ -839,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Ejaz0331/Leetcode/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3604-minimum-time-to-reach-destination-in-directed-graph/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ejaz0331/Leetcode/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1098,6 +1099,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3528-unit-conversion-i](https://github.com/Ejaz0331/Leetcode/tree/main/3528-unit-conversion-i/) | Medium |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3604-minimum-time-to-reach-destination-in-directed-graph/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ejaz0331/Leetcode/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Ejaz0331/Leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/Ejaz0331/Leetcode/tree/main/3924-minimum-threshold-path-with-limited-heavy-edges/) | Hard |
 ## Topological Sort
@@ -1166,6 +1168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Ejaz0331/Leetcode/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3604-minimum-time-to-reach-destination-in-directed-graph/) | Medium |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ejaz0331/Leetcode/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
