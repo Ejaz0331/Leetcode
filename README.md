@@ -456,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ejaz0331/Leetcode/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Ejaz0331/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Ejaz0331/Leetcode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ejaz0331/Leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/3112-minimum-time-to-visit-disappearing-nodes/) | Medium |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Ejaz0331/Leetcode/tree/main/3243-shortest-distance-after-road-addition-queries-i/) | Medium |
@@ -725,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1673-find-the-most-competitive-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ejaz0331/Leetcode/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Ejaz0331/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -888,6 +890,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ejaz0331/Leetcode/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Ejaz0331/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1051,6 +1054,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ejaz0331/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/Ejaz0331/Leetcode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ejaz0331/Leetcode/tree/main/3015-count-the-number-of-houses-at-a-certain-distance-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -1311,4 +1315,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ejaz0331/Leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 <!---LeetCode Topics End-->
