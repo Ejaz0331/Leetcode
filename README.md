@@ -385,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Ejaz0331/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/Ejaz0331/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/Ejaz0331/Leetcode/tree/main/0139-word-break/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Ejaz0331/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0322-coin-change](https://github.com/Ejaz0331/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0399-evaluate-division](https://github.com/Ejaz0331/Leetcode/tree/main/0399-evaluate-division/) | Medium |
@@ -600,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Ejaz0331/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Ejaz0331/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Ejaz0331/Leetcode/tree/main/0139-word-break/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Ejaz0331/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0279-perfect-squares](https://github.com/Ejaz0331/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Ejaz0331/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
