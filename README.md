@@ -650,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0576-out-of-boundary-paths](https://github.com/Ejaz0331/Leetcode/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Ejaz0331/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Ejaz0331/Leetcode/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
+| [0629-k-inverse-pairs-array](https://github.com/Ejaz0331/Leetcode/tree/main/0629-k-inverse-pairs-array/) | Hard |
 | [0808-soup-servings](https://github.com/Ejaz0331/Leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Ejaz0331/Leetcode/tree/main/0837-new-21-game/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
