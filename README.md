@@ -384,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Ejaz0331/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/Ejaz0331/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0139-word-break](https://github.com/Ejaz0331/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0322-coin-change](https://github.com/Ejaz0331/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0399-evaluate-division](https://github.com/Ejaz0331/Leetcode/tree/main/0399-evaluate-division/) | Medium |
@@ -494,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0133-clone-graph](https://github.com/Ejaz0331/Leetcode/tree/main/0133-clone-graph/) | Medium |
+| [0139-word-break](https://github.com/Ejaz0331/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Ejaz0331/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ejaz0331/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -556,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Ejaz0331/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/Ejaz0331/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0399-evaluate-division](https://github.com/Ejaz0331/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0409-longest-palindrome](https://github.com/Ejaz0331/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/Ejaz0331/Leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
@@ -596,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Ejaz0331/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Ejaz0331/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/Ejaz0331/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0279-perfect-squares](https://github.com/Ejaz0331/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Ejaz0331/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -1236,6 +1240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/Ejaz0331/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 ## Kosaraju's Algorithm
@@ -1399,4 +1404,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Ejaz0331/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Ejaz0331/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Ejaz0331/Leetcode/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Ejaz0331/Leetcode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
