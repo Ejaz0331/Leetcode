@@ -460,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Ejaz0331/Leetcode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [2974-minimum-number-game](https://github.com/Ejaz0331/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ejaz0331/Leetcode/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ejaz0331/Leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/3112-minimum-time-to-visit-disappearing-nodes/) | Medium |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Ejaz0331/Leetcode/tree/main/3243-shortest-distance-after-road-addition-queries-i/) | Medium |
@@ -522,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2641-cousins-in-binary-tree-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ejaz0331/Leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/Ejaz0331/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ejaz0331/Leetcode/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -983,6 +985,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Ejaz0331/Leetcode/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/Ejaz0331/Leetcode/tree/main/2959-number-of-possible-sets-of-closing-branches/) | Hard |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Ejaz0331/Leetcode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ejaz0331/Leetcode/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Ejaz0331/Leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
