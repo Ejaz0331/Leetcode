@@ -594,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0639-decode-ways-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0639-decode-ways-ii/) | Hard |
 | [0647-palindromic-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Ejaz0331/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ejaz0331/Leetcode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0721-accounts-merge](https://github.com/Ejaz0331/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Ejaz0331/Leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -667,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Ejaz0331/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0688-knight-probability-in-chessboard](https://github.com/Ejaz0331/Leetcode/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ejaz0331/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ejaz0331/Leetcode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0808-soup-servings](https://github.com/Ejaz0331/Leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Ejaz0331/Leetcode/tree/main/0837-new-21-game/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
@@ -1540,6 +1542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Ejaz0331/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ejaz0331/Leetcode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
