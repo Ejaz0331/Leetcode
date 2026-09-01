@@ -407,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0529-minesweeper](https://github.com/Ejaz0331/Leetcode/tree/main/0529-minesweeper/) | Medium |
 | [0542-01-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0546-remove-boxes](https://github.com/Ejaz0331/Leetcode/tree/main/0546-remove-boxes/) | Hard |
+| [0553-optimal-division](https://github.com/Ejaz0331/Leetcode/tree/main/0553-optimal-division/) | Medium |
 | [0622-design-circular-queue](https://github.com/Ejaz0331/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0690-employee-importance](https://github.com/Ejaz0331/Leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0721-accounts-merge](https://github.com/Ejaz0331/Leetcode/tree/main/0721-accounts-merge/) | Medium |
@@ -644,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0526-beautiful-arrangement](https://github.com/Ejaz0331/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0542-01-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0546-remove-boxes](https://github.com/Ejaz0331/Leetcode/tree/main/0546-remove-boxes/) | Hard |
+| [0553-optimal-division](https://github.com/Ejaz0331/Leetcode/tree/main/0553-optimal-division/) | Medium |
 | [0808-soup-servings](https://github.com/Ejaz0331/Leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Ejaz0331/Leetcode/tree/main/0837-new-21-game/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
@@ -830,6 +832,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0464-can-i-win](https://github.com/Ejaz0331/Leetcode/tree/main/0464-can-i-win/) | Medium |
 | [0486-predict-the-winner](https://github.com/Ejaz0331/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0553-optimal-division](https://github.com/Ejaz0331/Leetcode/tree/main/0553-optimal-division/) | Medium |
 | [0672-bulb-switcher-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [0808-soup-servings](https://github.com/Ejaz0331/Leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Ejaz0331/Leetcode/tree/main/0837-new-21-game/) | Medium |
