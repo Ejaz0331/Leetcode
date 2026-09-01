@@ -398,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0472-concatenated-words](https://github.com/Ejaz0331/Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0473-matchsticks-to-square](https://github.com/Ejaz0331/Leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Ejaz0331/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0529-minesweeper](https://github.com/Ejaz0331/Leetcode/tree/main/0529-minesweeper/) | Medium |
 | [0542-01-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0622-design-circular-queue](https://github.com/Ejaz0331/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
@@ -575,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0466-count-the-repetitions](https://github.com/Ejaz0331/Leetcode/tree/main/0466-count-the-repetitions/) | Hard |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Ejaz0331/Leetcode/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 | [0472-concatenated-words](https://github.com/Ejaz0331/Leetcode/tree/main/0472-concatenated-words/) | Hard |
+| [0474-ones-and-zeroes](https://github.com/Ejaz0331/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0514-freedom-trail](https://github.com/Ejaz0331/Leetcode/tree/main/0514-freedom-trail/) | Hard |
 | [0721-accounts-merge](https://github.com/Ejaz0331/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Ejaz0331/Leetcode/tree/main/0752-open-the-lock/) | Medium |
@@ -626,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Ejaz0331/Leetcode/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 | [0472-concatenated-words](https://github.com/Ejaz0331/Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0473-matchsticks-to-square](https://github.com/Ejaz0331/Leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Ejaz0331/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0514-freedom-trail](https://github.com/Ejaz0331/Leetcode/tree/main/0514-freedom-trail/) | Hard |
 | [0542-01-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0808-soup-servings](https://github.com/Ejaz0331/Leetcode/tree/main/0808-soup-servings/) | Medium |
@@ -1355,6 +1358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Ejaz0331/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Ejaz0331/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Ejaz0331/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1455,4 +1459,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0464-can-i-win](https://github.com/Ejaz0331/Leetcode/tree/main/0464-can-i-win/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0474-ones-and-zeroes](https://github.com/Ejaz0331/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 <!---LeetCode Topics End-->
