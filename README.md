@@ -401,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0473-matchsticks-to-square](https://github.com/Ejaz0331/Leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Ejaz0331/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/Ejaz0331/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0529-minesweeper](https://github.com/Ejaz0331/Leetcode/tree/main/0529-minesweeper/) | Medium |
 | [0542-01-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0622-design-circular-queue](https://github.com/Ejaz0331/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
@@ -632,6 +633,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0473-matchsticks-to-square](https://github.com/Ejaz0331/Leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Ejaz0331/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/Ejaz0331/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0514-freedom-trail](https://github.com/Ejaz0331/Leetcode/tree/main/0514-freedom-trail/) | Hard |
 | [0542-01-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0808-soup-servings](https://github.com/Ejaz0331/Leetcode/tree/main/0808-soup-servings/) | Medium |
@@ -878,6 +880,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Ejaz0331/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Ejaz0331/Leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0494-target-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Ejaz0331/Leetcode/tree/main/0967-numbers-with-same-consecutive-differences/) | Medium |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
@@ -1363,6 +1366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/Ejaz0331/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Ejaz0331/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Ejaz0331/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0494-target-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0494-target-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1468,6 +1472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0474-ones-and-zeroes](https://github.com/Ejaz0331/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0494-target-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0494-target-sum/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
