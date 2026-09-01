@@ -462,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2974-minimum-number-game](https://github.com/Ejaz0331/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ejaz0331/Leetcode/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ejaz0331/Leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Ejaz0331/Leetcode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/3112-minimum-time-to-visit-disappearing-nodes/) | Medium |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Ejaz0331/Leetcode/tree/main/3243-shortest-distance-after-road-addition-queries-i/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -1054,6 +1055,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/Ejaz0331/Leetcode/tree/main/2959-number-of-possible-sets-of-closing-branches/) | Hard |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Ejaz0331/Leetcode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Ejaz0331/Leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
