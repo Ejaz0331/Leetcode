@@ -378,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Ejaz0331/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/Ejaz0331/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0322-coin-change](https://github.com/Ejaz0331/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -574,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/Ejaz0331/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0062-unique-paths](https://github.com/Ejaz0331/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0279-perfect-squares](https://github.com/Ejaz0331/Leetcode/tree/main/0279-perfect-squares/) | Medium |
@@ -966,6 +968,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/Ejaz0331/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ejaz0331/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
