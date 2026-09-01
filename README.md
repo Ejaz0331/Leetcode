@@ -730,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 | [1627-graph-connectivity-with-threshold](https://github.com/Ejaz0331/Leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ejaz0331/Leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Ejaz0331/Leetcode/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ejaz0331/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Binary Search Tree
@@ -835,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ejaz0331/Leetcode/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Ejaz0331/Leetcode/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -982,6 +984,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1627-graph-connectivity-with-threshold](https://github.com/Ejaz0331/Leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Ejaz0331/Leetcode/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ejaz0331/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
@@ -1087,6 +1090,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3310-remove-methods-from-project](https://github.com/Ejaz0331/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ejaz0331/Leetcode/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Ejaz0331/Leetcode/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Ejaz0331/Leetcode/tree/main/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
@@ -1157,6 +1161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ejaz0331/Leetcode/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Ejaz0331/Leetcode/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
