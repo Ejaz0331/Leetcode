@@ -590,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Ejaz0331/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0639-decode-ways-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0639-decode-ways-ii/) | Hard |
+| [0647-palindromic-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0721-accounts-merge](https://github.com/Ejaz0331/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Ejaz0331/Leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -657,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0638-shopping-offers](https://github.com/Ejaz0331/Leetcode/tree/main/0638-shopping-offers/) | Medium |
 | [0639-decode-ways-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0639-decode-ways-ii/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ejaz0331/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0647-palindromic-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0808-soup-servings](https://github.com/Ejaz0331/Leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Ejaz0331/Leetcode/tree/main/0837-new-21-game/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
@@ -956,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Ejaz0331/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Ejaz0331/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0466-count-the-repetitions](https://github.com/Ejaz0331/Leetcode/tree/main/0466-count-the-repetitions/) | Hard |
+| [0647-palindromic-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Ejaz0331/Leetcode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
