@@ -453,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ejaz0331/Leetcode/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ejaz0331/Leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/Ejaz0331/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ejaz0331/Leetcode/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ejaz0331/Leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/3112-minimum-time-to-visit-disappearing-nodes/) | Medium |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Ejaz0331/Leetcode/tree/main/3243-shortest-distance-after-road-addition-queries-i/) | Medium |
@@ -720,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ejaz0331/Leetcode/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ejaz0331/Leetcode/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -877,6 +879,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ejaz0331/Leetcode/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
