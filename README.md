@@ -592,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/Ejaz0331/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0639-decode-ways-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0639-decode-ways-ii/) | Hard |
 | [0647-palindromic-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Ejaz0331/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0721-accounts-merge](https://github.com/Ejaz0331/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Ejaz0331/Leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -662,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Ejaz0331/Leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Ejaz0331/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0808-soup-servings](https://github.com/Ejaz0331/Leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Ejaz0331/Leetcode/tree/main/0837-new-21-game/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
@@ -831,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Ejaz0331/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Ejaz0331/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ejaz0331/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Ejaz0331/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ejaz0331/Leetcode/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
@@ -928,6 +931,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/Ejaz0331/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Ejaz0331/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Ejaz0331/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
@@ -1497,6 +1501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Ejaz0331/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Ejaz0331/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Ejaz0331/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
