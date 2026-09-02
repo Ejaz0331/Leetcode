@@ -504,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1395-count-number-of-teams](https://github.com/Ejaz0331/Leetcode/tree/main/1395-count-number-of-teams/) | Medium |
+| [1402-reducing-dishes](https://github.com/Ejaz0331/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -842,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-sort-integers-by-the-power-value](https://github.com/Ejaz0331/Leetcode/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1395-count-number-of-teams](https://github.com/Ejaz0331/Leetcode/tree/main/1395-count-number-of-teams/) | Medium |
 | [1397-find-all-good-strings](https://github.com/Ejaz0331/Leetcode/tree/main/1397-find-all-good-strings/) | Hard |
+| [1402-reducing-dishes](https://github.com/Ejaz0331/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ejaz0331/Leetcode/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
@@ -1014,6 +1016,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ejaz0331/Leetcode/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1363-largest-multiple-of-three](https://github.com/Ejaz0331/Leetcode/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1402-reducing-dishes](https://github.com/Ejaz0331/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ejaz0331/Leetcode/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ejaz0331/Leetcode/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
@@ -1237,6 +1240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/Ejaz0331/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1363-largest-multiple-of-three](https://github.com/Ejaz0331/Leetcode/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1387-sort-integers-by-the-power-value](https://github.com/Ejaz0331/Leetcode/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
+| [1402-reducing-dishes](https://github.com/Ejaz0331/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ejaz0331/Leetcode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1630-arithmetic-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/1630-arithmetic-subarrays/) | Medium |
