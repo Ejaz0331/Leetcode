@@ -463,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Ejaz0331/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Ejaz0331/Leetcode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1014-best-sightseeing-pair](https://github.com/Ejaz0331/Leetcode/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Ejaz0331/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1034-coloring-a-border](https://github.com/Ejaz0331/Leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1046-last-stone-weight](https://github.com/Ejaz0331/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
@@ -767,6 +768,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0978-longest-turbulent-subarray](https://github.com/Ejaz0331/Leetcode/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/Ejaz0331/Leetcode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Ejaz0331/Leetcode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
+| [1014-best-sightseeing-pair](https://github.com/Ejaz0331/Leetcode/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
