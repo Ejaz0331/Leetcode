@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0934-shortest-bridge](https://github.com/Ejaz0331/Leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [0943-find-the-shortest-superstring](https://github.com/Ejaz0331/Leetcode/tree/main/0943-find-the-shortest-superstring/) | Hard |
+| [0956-tallest-billboard](https://github.com/Ejaz0331/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 | [0959-regions-cut-by-slashes](https://github.com/Ejaz0331/Leetcode/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0994-rotting-oranges](https://github.com/Ejaz0331/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -752,6 +753,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0935-knight-dialer](https://github.com/Ejaz0331/Leetcode/tree/main/0935-knight-dialer/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0943-find-the-shortest-superstring](https://github.com/Ejaz0331/Leetcode/tree/main/0943-find-the-shortest-superstring/) | Hard |
+| [0956-tallest-billboard](https://github.com/Ejaz0331/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -1544,6 +1546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0638-shopping-offers](https://github.com/Ejaz0331/Leetcode/tree/main/0638-shopping-offers/) | Medium |
+| [0956-tallest-billboard](https://github.com/Ejaz0331/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1656,6 +1659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Ejaz0331/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0494-target-sum/) | Medium |
+| [0956-tallest-billboard](https://github.com/Ejaz0331/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1689,4 +1693,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/Ejaz0331/Leetcode/tree/main/0943-find-the-shortest-superstring/) | Hard |
+## Meet in the Middle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0956-tallest-billboard](https://github.com/Ejaz0331/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 <!---LeetCode Topics End-->
