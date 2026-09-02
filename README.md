@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ejaz0331/Leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ejaz0331/Leetcode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ejaz0331/Leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ejaz0331/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ejaz0331/Leetcode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ejaz0331/Leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -832,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/Ejaz0331/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1349-maximum-students-taking-exam](https://github.com/Ejaz0331/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
 | [1363-largest-multiple-of-three](https://github.com/Ejaz0331/Leetcode/tree/main/1363-largest-multiple-of-three/) | Hard |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
@@ -1247,6 +1251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Ejaz0331/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ejaz0331/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Ejaz0331/Leetcode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
