@@ -449,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ejaz0331/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/Ejaz0331/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Ejaz0331/Leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0934-shortest-bridge](https://github.com/Ejaz0331/Leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Ejaz0331/Leetcode/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0994-rotting-oranges](https://github.com/Ejaz0331/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -744,6 +745,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ejaz0331/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/Ejaz0331/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Ejaz0331/Leetcode/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -1186,6 +1188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Ejaz0331/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/Ejaz0331/Leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0934-shortest-bridge](https://github.com/Ejaz0331/Leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Ejaz0331/Leetcode/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0994-rotting-oranges](https://github.com/Ejaz0331/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
