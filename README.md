@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Ejaz0331/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Ejaz0331/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/Ejaz0331/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0894-all-possible-full-binary-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0834-sum-of-distances-in-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0894-all-possible-full-binary-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0919-complete-binary-tree-inserter](https://github.com/Ejaz0331/Leetcode/tree/main/0919-complete-binary-tree-inserter/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0894-all-possible-full-binary-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0919-complete-binary-tree-inserter](https://github.com/Ejaz0331/Leetcode/tree/main/0919-complete-binary-tree-inserter/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -731,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0845-longest-mountain-in-array](https://github.com/Ejaz0331/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
+| [0894-all-possible-full-binary-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -1432,6 +1436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0546-remove-boxes](https://github.com/Ejaz0331/Leetcode/tree/main/0546-remove-boxes/) | Hard |
 | [0638-shopping-offers](https://github.com/Ejaz0331/Leetcode/tree/main/0638-shopping-offers/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ejaz0331/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0894-all-possible-full-binary-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
