@@ -477,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1093-statistics-from-a-large-sample](https://github.com/Ejaz0331/Leetcode/tree/main/1093-statistics-from-a-large-sample/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/Ejaz0331/Leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
+| [1125-smallest-sufficient-team](https://github.com/Ejaz0331/Leetcode/tree/main/1125-smallest-sufficient-team/) | Hard |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Ejaz0331/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -791,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-last-stone-weight-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Ejaz0331/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1105-filling-bookcase-shelves](https://github.com/Ejaz0331/Leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
+| [1125-smallest-sufficient-team](https://github.com/Ejaz0331/Leetcode/tree/main/1125-smallest-sufficient-team/) | Hard |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -1365,6 +1367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [0943-find-the-shortest-superstring](https://github.com/Ejaz0331/Leetcode/tree/main/0943-find-the-shortest-superstring/) | Hard |
+| [1125-smallest-sufficient-team](https://github.com/Ejaz0331/Leetcode/tree/main/1125-smallest-sufficient-team/) | Hard |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
@@ -1383,6 +1386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ejaz0331/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0943-find-the-shortest-superstring](https://github.com/Ejaz0331/Leetcode/tree/main/0943-find-the-shortest-superstring/) | Hard |
+| [1125-smallest-sufficient-team](https://github.com/Ejaz0331/Leetcode/tree/main/1125-smallest-sufficient-team/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Prefix Sum
