@@ -480,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1125-smallest-sufficient-team](https://github.com/Ejaz0331/Leetcode/tree/main/1125-smallest-sufficient-team/) | Hard |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Ejaz0331/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Ejaz0331/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
+| [1139-largest-1-bordered-square](https://github.com/Ejaz0331/Leetcode/tree/main/1139-largest-1-bordered-square/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Ejaz0331/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -796,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1125-smallest-sufficient-team](https://github.com/Ejaz0331/Leetcode/tree/main/1125-smallest-sufficient-team/) | Hard |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Ejaz0331/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Ejaz0331/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1139-largest-1-bordered-square](https://github.com/Ejaz0331/Leetcode/tree/main/1139-largest-1-bordered-square/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -1255,6 +1257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/Ejaz0331/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1034-coloring-a-border](https://github.com/Ejaz0331/Leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1139-largest-1-bordered-square](https://github.com/Ejaz0331/Leetcode/tree/main/1139-largest-1-bordered-square/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Ejaz0331/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Ejaz0331/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
