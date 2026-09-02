@@ -727,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-new-21-game](https://github.com/Ejaz0331/Leetcode/tree/main/0837-new-21-game/) | Medium |
 | [0838-push-dominoes](https://github.com/Ejaz0331/Leetcode/tree/main/0838-push-dominoes/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Ejaz0331/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -791,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-all-paths-from-source-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Ejaz0331/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Ejaz0331/Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0886-possible-bipartition](https://github.com/Ejaz0331/Leetcode/tree/main/0886-possible-bipartition/) | Medium |
@@ -1284,6 +1286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0638-shopping-offers](https://github.com/Ejaz0331/Leetcode/tree/main/0638-shopping-offers/) | Medium |
 | [0672-bulb-switcher-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ejaz0331/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
@@ -1300,6 +1303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0526-beautiful-arrangement](https://github.com/Ejaz0331/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0638-shopping-offers](https://github.com/Ejaz0331/Leetcode/tree/main/0638-shopping-offers/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ejaz0331/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Prefix Sum
@@ -1342,6 +1346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/Ejaz0331/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0841-keys-and-rooms](https://github.com/Ejaz0331/Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0851-loud-and-rich](https://github.com/Ejaz0331/Leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0886-possible-bipartition](https://github.com/Ejaz0331/Leetcode/tree/main/0886-possible-bipartition/) | Medium |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Ejaz0331/Leetcode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
