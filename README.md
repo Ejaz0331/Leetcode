@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ejaz0331/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0834-sum-of-distances-in-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/Ejaz0331/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Ejaz0331/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0834-sum-of-distances-in-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0841-keys-and-rooms](https://github.com/Ejaz0331/Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0851-loud-and-rich](https://github.com/Ejaz0331/Leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -719,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0808-soup-servings](https://github.com/Ejaz0331/Leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0813-largest-sum-of-averages](https://github.com/Ejaz0331/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/Ejaz0331/Leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
+| [0834-sum-of-distances-in-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0837-new-21-game](https://github.com/Ejaz0331/Leetcode/tree/main/0837-new-21-game/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
@@ -1110,6 +1113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0337-house-robber-iii](https://github.com/Ejaz0331/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
+| [0834-sum-of-distances-in-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ejaz0331/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -1329,6 +1333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/Ejaz0331/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Ejaz0331/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0834-sum-of-distances-in-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0841-keys-and-rooms](https://github.com/Ejaz0331/Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0851-loud-and-rich](https://github.com/Ejaz0331/Leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0886-possible-bipartition](https://github.com/Ejaz0331/Leetcode/tree/main/0886-possible-bipartition/) | Medium |
