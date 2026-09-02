@@ -524,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ejaz0331/Leetcode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ejaz0331/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ejaz0331/Leetcode/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ejaz0331/Leetcode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
@@ -883,6 +884,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ejaz0331/Leetcode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ejaz0331/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ejaz0331/Leetcode/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ejaz0331/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -1376,6 +1378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1504-count-submatrices-with-all-ones](https://github.com/Ejaz0331/Leetcode/tree/main/1504-count-submatrices-with-all-ones/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ejaz0331/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ejaz0331/Leetcode/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Ejaz0331/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -1400,6 +1403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1349-maximum-students-taking-exam](https://github.com/Ejaz0331/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ejaz0331/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ejaz0331/Leetcode/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -1500,6 +1504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ejaz0331/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ejaz0331/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/Ejaz0331/Leetcode/tree/main/2959-number-of-possible-sets-of-closing-branches/) | Hard |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Ejaz0331/Leetcode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
@@ -1519,6 +1524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1125-smallest-sufficient-team](https://github.com/Ejaz0331/Leetcode/tree/main/1125-smallest-sufficient-team/) | Hard |
 | [1349-maximum-students-taking-exam](https://github.com/Ejaz0331/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ejaz0331/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ejaz0331/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Prefix Sum
@@ -1720,6 +1726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0886-possible-bipartition](https://github.com/Ejaz0331/Leetcode/tree/main/0886-possible-bipartition/) | Medium |
 | [1349-maximum-students-taking-exam](https://github.com/Ejaz0331/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ejaz0331/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ejaz0331/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 ## Planar Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1950,6 +1957,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1349-maximum-students-taking-exam](https://github.com/Ejaz0331/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ejaz0331/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ejaz0331/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 ## Dinic's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1970,4 +1978,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Successive Shortest Path Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ejaz0331/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
+## Minimum-Cost Flow
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ejaz0331/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 <!---LeetCode Topics End-->
