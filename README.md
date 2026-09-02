@@ -493,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ejaz0331/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Ejaz0331/Leetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ejaz0331/Leetcode/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
@@ -821,6 +822,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ejaz0331/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ejaz0331/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ejaz0331/Leetcode/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
@@ -992,6 +994,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1024-video-stitching](https://github.com/Ejaz0331/Leetcode/tree/main/1024-video-stitching/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Ejaz0331/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ejaz0331/Leetcode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ejaz0331/Leetcode/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ejaz0331/Leetcode/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
