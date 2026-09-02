@@ -439,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-number-of-matching-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0813-largest-sum-of-averages](https://github.com/Ejaz0331/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/Ejaz0331/Leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
+| [0845-longest-mountain-in-array](https://github.com/Ejaz0331/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0851-loud-and-rich](https://github.com/Ejaz0331/Leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Ejaz0331/Leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0934-shortest-bridge](https://github.com/Ejaz0331/Leetcode/tree/main/0934-shortest-bridge/) | Medium |
@@ -725,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0834-sum-of-distances-in-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0837-new-21-game](https://github.com/Ejaz0331/Leetcode/tree/main/0837-new-21-game/) | Medium |
 | [0838-push-dominoes](https://github.com/Ejaz0331/Leetcode/tree/main/0838-push-dominoes/) | Medium |
+| [0845-longest-mountain-in-array](https://github.com/Ejaz0331/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -1041,6 +1043,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0838-push-dominoes](https://github.com/Ejaz0331/Leetcode/tree/main/0838-push-dominoes/) | Medium |
+| [0845-longest-mountain-in-array](https://github.com/Ejaz0331/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Ejaz0331/Leetcode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 ## Heap (Priority Queue)
@@ -1200,6 +1203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0845-longest-mountain-in-array](https://github.com/Ejaz0331/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/Ejaz0331/Leetcode/tree/main/1620-coordinate-with-maximum-network-quality/) | Medium |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Ejaz0331/Leetcode/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/Ejaz0331/Leetcode/tree/main/2959-number-of-possible-sets-of-closing-branches/) | Hard |
