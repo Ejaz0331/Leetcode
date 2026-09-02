@@ -503,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1363-largest-multiple-of-three](https://github.com/Ejaz0331/Leetcode/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1395-count-number-of-teams](https://github.com/Ejaz0331/Leetcode/tree/main/1395-count-number-of-teams/) | Medium |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -838,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1387-sort-integers-by-the-power-value](https://github.com/Ejaz0331/Leetcode/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
+| [1395-count-number-of-teams](https://github.com/Ejaz0331/Leetcode/tree/main/1395-count-number-of-teams/) | Medium |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ejaz0331/Leetcode/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
@@ -1811,10 +1813,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [1395-count-number-of-teams](https://github.com/Ejaz0331/Leetcode/tree/main/1395-count-number-of-teams/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [1395-count-number-of-teams](https://github.com/Ejaz0331/Leetcode/tree/main/1395-count-number-of-teams/) | Medium |
 ## Hamiltonian Path
 | Problem Name | Difficulty |
 | ------- | ------- |
