@@ -660,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-find-the-shortest-superstring](https://github.com/Ejaz0331/Leetcode/tree/main/0943-find-the-shortest-superstring/) | Hard |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ejaz0331/Leetcode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1048-longest-string-chain](https://github.com/Ejaz0331/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/Ejaz0331/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
@@ -787,6 +788,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1043-partition-array-for-maximum-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Ejaz0331/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/Ejaz0331/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -1721,6 +1723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Ejaz0331/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ejaz0331/Leetcode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/Ejaz0331/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
