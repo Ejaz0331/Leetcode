@@ -479,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1105-filling-bookcase-shelves](https://github.com/Ejaz0331/Leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1125-smallest-sufficient-team](https://github.com/Ejaz0331/Leetcode/tree/main/1125-smallest-sufficient-team/) | Hard |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Ejaz0331/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Ejaz0331/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Ejaz0331/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -793,6 +794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1092-shortest-common-supersequence](https://github.com/Ejaz0331/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1105-filling-bookcase-shelves](https://github.com/Ejaz0331/Leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1125-smallest-sufficient-team](https://github.com/Ejaz0331/Leetcode/tree/main/1125-smallest-sufficient-team/) | Hard |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Ejaz0331/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -964,6 +966,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Ejaz0331/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ejaz0331/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1024-video-stitching](https://github.com/Ejaz0331/Leetcode/tree/main/1024-video-stitching/) | Medium |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Ejaz0331/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ejaz0331/Leetcode/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
@@ -1080,6 +1083,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Ejaz0331/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Ejaz0331/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -1161,6 +1165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/Ejaz0331/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/Ejaz0331/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Ejaz0331/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -1761,4 +1766,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Ejaz0331/Leetcode/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
+## Cartesian Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Ejaz0331/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 <!---LeetCode Topics End-->
