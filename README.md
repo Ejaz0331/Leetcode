@@ -473,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1043-partition-array-for-maximum-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1046-last-stone-weight](https://github.com/Ejaz0331/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1048-longest-string-chain](https://github.com/Ejaz0331/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1093-statistics-from-a-large-sample](https://github.com/Ejaz0331/Leetcode/tree/main/1093-statistics-from-a-large-sample/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Ejaz0331/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
@@ -785,6 +786,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Ejaz0331/Leetcode/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Ejaz0331/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -1587,6 +1589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0638-shopping-offers](https://github.com/Ejaz0331/Leetcode/tree/main/0638-shopping-offers/) | Medium |
 | [0956-tallest-billboard](https://github.com/Ejaz0331/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
+| [1049-last-stone-weight-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1703,6 +1706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/Ejaz0331/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0956-tallest-billboard](https://github.com/Ejaz0331/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
+| [1049-last-stone-weight-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
