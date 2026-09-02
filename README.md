@@ -508,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/Ejaz0331/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1425-constrained-subsequence-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ejaz0331/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Ejaz0331/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -853,6 +854,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1416-restore-the-array](https://github.com/Ejaz0331/Leetcode/tree/main/1416-restore-the-array/) | Hard |
 | [1425-constrained-subsequence-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ejaz0331/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Ejaz0331/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ejaz0331/Leetcode/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
@@ -1331,6 +1333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1349-maximum-students-taking-exam](https://github.com/Ejaz0331/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Ejaz0331/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ejaz0331/Leetcode/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -1479,6 +1482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-largest-sum-of-averages](https://github.com/Ejaz0331/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Ejaz0331/Leetcode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1140-stone-game-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Ejaz0331/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ejaz0331/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/Ejaz0331/Leetcode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
@@ -1602,6 +1606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0894-all-possible-full-binary-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Ejaz0331/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1387-sort-integers-by-the-power-value](https://github.com/Ejaz0331/Leetcode/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Ejaz0331/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
