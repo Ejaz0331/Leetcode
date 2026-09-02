@@ -509,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1425-constrained-subsequence-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ejaz0331/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Ejaz0331/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/1449-form-largest-integer-with-digits-that-add-up-to-target/) | Hard |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -855,6 +856,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1425-constrained-subsequence-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ejaz0331/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Ejaz0331/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/1449-form-largest-integer-with-digits-that-add-up-to-target/) | Hard |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ejaz0331/Leetcode/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
@@ -1694,6 +1696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0638-shopping-offers](https://github.com/Ejaz0331/Leetcode/tree/main/0638-shopping-offers/) | Medium |
 | [0956-tallest-billboard](https://github.com/Ejaz0331/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 | [1049-last-stone-weight-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/1449-form-largest-integer-with-digits-that-add-up-to-target/) | Hard |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1701,6 +1704,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Ejaz0331/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0638-shopping-offers](https://github.com/Ejaz0331/Leetcode/tree/main/0638-shopping-offers/) | Medium |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/1449-form-largest-integer-with-digits-that-add-up-to-target/) | Hard |
 ## Bézout's Lemma
 | Problem Name | Difficulty |
 | ------- | ------- |
