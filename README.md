@@ -451,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-snakes-and-ladders](https://github.com/Ejaz0331/Leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0934-shortest-bridge](https://github.com/Ejaz0331/Leetcode/tree/main/0934-shortest-bridge/) | Medium |
+| [0943-find-the-shortest-superstring](https://github.com/Ejaz0331/Leetcode/tree/main/0943-find-the-shortest-superstring/) | Hard |
 | [0959-regions-cut-by-slashes](https://github.com/Ejaz0331/Leetcode/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0994-rotting-oranges](https://github.com/Ejaz0331/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -638,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ejaz0331/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Ejaz0331/Leetcode/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [0943-find-the-shortest-superstring](https://github.com/Ejaz0331/Leetcode/tree/main/0943-find-the-shortest-superstring/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
@@ -749,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0935-knight-dialer](https://github.com/Ejaz0331/Leetcode/tree/main/0935-knight-dialer/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [0943-find-the-shortest-superstring](https://github.com/Ejaz0331/Leetcode/tree/main/0943-find-the-shortest-superstring/) | Hard |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -1314,6 +1317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ejaz0331/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
+| [0943-find-the-shortest-superstring](https://github.com/Ejaz0331/Leetcode/tree/main/0943-find-the-shortest-superstring/) | Hard |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
@@ -1331,6 +1335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0638-shopping-offers](https://github.com/Ejaz0331/Leetcode/tree/main/0638-shopping-offers/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ejaz0331/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
+| [0943-find-the-shortest-superstring](https://github.com/Ejaz0331/Leetcode/tree/main/0943-find-the-shortest-superstring/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Prefix Sum
@@ -1680,4 +1685,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Hamiltonian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0943-find-the-shortest-superstring](https://github.com/Ejaz0331/Leetcode/tree/main/0943-find-the-shortest-superstring/) | Hard |
 <!---LeetCode Topics End-->
