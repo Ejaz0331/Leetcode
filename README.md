@@ -662,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0343-integer-break](https://github.com/Ejaz0331/Leetcode/tree/main/0343-integer-break/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Ejaz0331/Leetcode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/Ejaz0331/Leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Ejaz0331/Leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Ejaz0331/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0464-can-i-win](https://github.com/Ejaz0331/Leetcode/tree/main/0464-can-i-win/) | Medium |
@@ -886,6 +887,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0343-integer-break](https://github.com/Ejaz0331/Leetcode/tree/main/0343-integer-break/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/Ejaz0331/Leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Ejaz0331/Leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0382-linked-list-random-node](https://github.com/Ejaz0331/Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0464-can-i-win](https://github.com/Ejaz0331/Leetcode/tree/main/0464-can-i-win/) | Medium |
@@ -1567,6 +1569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0464-can-i-win](https://github.com/Ejaz0331/Leetcode/tree/main/0464-can-i-win/) | Medium |
 | [0486-predict-the-winner](https://github.com/Ejaz0331/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 ## 0-1 Knapsack
@@ -1577,6 +1580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Ejaz0331/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
