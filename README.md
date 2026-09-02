@@ -434,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/Ejaz0331/Leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Ejaz0331/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0752-open-the-lock](https://github.com/Ejaz0331/Leetcode/tree/main/0752-open-the-lock/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0851-loud-and-rich](https://github.com/Ejaz0331/Leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Ejaz0331/Leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0934-shortest-bridge](https://github.com/Ejaz0331/Leetcode/tree/main/0934-shortest-bridge/) | Medium |
@@ -547,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Ejaz0331/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0740-delete-and-earn](https://github.com/Ejaz0331/Leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0752-open-the-lock](https://github.com/Ejaz0331/Leetcode/tree/main/0752-open-the-lock/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Ejaz0331/Leetcode/tree/main/0959-regions-cut-by-slashes/) | Medium |
@@ -616,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ejaz0331/Leetcode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0721-accounts-merge](https://github.com/Ejaz0331/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Ejaz0331/Leetcode/tree/main/0752-open-the-lock/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
@@ -708,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/Ejaz0331/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/Ejaz0331/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/Ejaz0331/Leetcode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0808-soup-servings](https://github.com/Ejaz0331/Leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Ejaz0331/Leetcode/tree/main/0837-new-21-game/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
@@ -939,6 +943,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ejaz0331/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ejaz0331/Leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0792-number-of-matching-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -1078,6 +1083,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0472-concatenated-words](https://github.com/Ejaz0331/Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ejaz0331/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0721-accounts-merge](https://github.com/Ejaz0331/Leetcode/tree/main/0721-accounts-merge/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Ejaz0331/Leetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
@@ -1575,6 +1581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0139-word-break](https://github.com/Ejaz0331/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0472-concatenated-words](https://github.com/Ejaz0331/Leetcode/tree/main/0472-concatenated-words/) | Hard |
+| [0792-number-of-matching-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 ## Brute-Force Search
 | Problem Name | Difficulty |
 | ------- | ------- |
