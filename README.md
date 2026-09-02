@@ -771,6 +771,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1000-minimum-cost-to-merge-stones](https://github.com/Ejaz0331/Leetcode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1014-best-sightseeing-pair](https://github.com/Ejaz0331/Leetcode/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1024-video-stitching](https://github.com/Ejaz0331/Leetcode/tree/main/1024-video-stitching/) | Medium |
+| [1025-divisor-game](https://github.com/Ejaz0331/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -972,6 +973,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0808-soup-servings](https://github.com/Ejaz0331/Leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Ejaz0331/Leetcode/tree/main/0837-new-21-game/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ejaz0331/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
+| [1025-divisor-game](https://github.com/Ejaz0331/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1093-statistics-from-a-large-sample](https://github.com/Ejaz0331/Leetcode/tree/main/1093-statistics-from-a-large-sample/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
@@ -1637,6 +1639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1025-divisor-game](https://github.com/Ejaz0331/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 ## 0-1 BFS
 | Problem Name | Difficulty |
@@ -1674,6 +1677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0464-can-i-win](https://github.com/Ejaz0331/Leetcode/tree/main/0464-can-i-win/) | Medium |
 | [0486-predict-the-winner](https://github.com/Ejaz0331/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [1025-divisor-game](https://github.com/Ejaz0331/Leetcode/tree/main/1025-divisor-game/) | Easy |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1718,4 +1722,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0956-tallest-billboard](https://github.com/Ejaz0331/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Ejaz0331/Leetcode/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
