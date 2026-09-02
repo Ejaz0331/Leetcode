@@ -675,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1092-shortest-common-supersequence](https://github.com/Ejaz0331/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ejaz0331/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Ejaz0331/Leetcode/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
@@ -819,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ejaz0331/Leetcode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ejaz0331/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ejaz0331/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
