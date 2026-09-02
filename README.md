@@ -484,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ejaz0331/Leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1191-k-concatenation-maximum-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Ejaz0331/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Ejaz0331/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
@@ -806,6 +807,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ejaz0331/Leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1191-k-concatenation-maximum-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
