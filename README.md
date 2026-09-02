@@ -685,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ejaz0331/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1397-find-all-good-strings](https://github.com/Ejaz0331/Leetcode/tree/main/1397-find-all-good-strings/) | Hard |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Ejaz0331/Leetcode/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
@@ -840,6 +841,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1387-sort-integers-by-the-power-value](https://github.com/Ejaz0331/Leetcode/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1395-count-number-of-teams](https://github.com/Ejaz0331/Leetcode/tree/main/1395-count-number-of-teams/) | Medium |
+| [1397-find-all-good-strings](https://github.com/Ejaz0331/Leetcode/tree/main/1397-find-all-good-strings/) | Hard |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ejaz0331/Leetcode/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
@@ -1871,4 +1873,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1349-maximum-students-taking-exam](https://github.com/Ejaz0331/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1397-find-all-good-strings](https://github.com/Ejaz0331/Leetcode/tree/main/1397-find-all-good-strings/) | Hard |
 <!---LeetCode Topics End-->
