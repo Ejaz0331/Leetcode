@@ -639,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/Ejaz0331/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [1640-check-array-formation-through-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Ejaz0331/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
@@ -714,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Ejaz0331/Leetcode/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 | [1629-slowest-key](https://github.com/Ejaz0331/Leetcode/tree/main/1629-slowest-key/) | Easy |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/Ejaz0331/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ejaz0331/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ejaz0331/Leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ejaz0331/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
@@ -888,6 +890,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ejaz0331/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ejaz0331/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/Ejaz0331/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/Ejaz0331/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ejaz0331/Leetcode/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ejaz0331/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -1416,6 +1419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0845-longest-mountain-in-array](https://github.com/Ejaz0331/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/Ejaz0331/Leetcode/tree/main/1620-coordinate-with-maximum-network-quality/) | Medium |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Ejaz0331/Leetcode/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/Ejaz0331/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/Ejaz0331/Leetcode/tree/main/2959-number-of-possible-sets-of-closing-branches/) | Hard |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Ejaz0331/Leetcode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ejaz0331/Leetcode/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
