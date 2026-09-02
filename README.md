@@ -454,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-find-the-shortest-superstring](https://github.com/Ejaz0331/Leetcode/tree/main/0943-find-the-shortest-superstring/) | Hard |
 | [0956-tallest-billboard](https://github.com/Ejaz0331/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 | [0959-regions-cut-by-slashes](https://github.com/Ejaz0331/Leetcode/tree/main/0959-regions-cut-by-slashes/) | Medium |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Ejaz0331/Leetcode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/Ejaz0331/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Ejaz0331/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -641,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0926-flip-string-to-monotone-increasing](https://github.com/Ejaz0331/Leetcode/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0943-find-the-shortest-superstring](https://github.com/Ejaz0331/Leetcode/tree/main/0943-find-the-shortest-superstring/) | Hard |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Ejaz0331/Leetcode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
@@ -754,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-distinct-subsequences-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0943-find-the-shortest-superstring](https://github.com/Ejaz0331/Leetcode/tree/main/0943-find-the-shortest-superstring/) | Hard |
 | [0956-tallest-billboard](https://github.com/Ejaz0331/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Ejaz0331/Leetcode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
