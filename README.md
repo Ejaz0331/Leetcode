@@ -465,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/Ejaz0331/Leetcode/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Ejaz0331/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1024-video-stitching](https://github.com/Ejaz0331/Leetcode/tree/main/1024-video-stitching/) | Medium |
 | [1034-coloring-a-border](https://github.com/Ejaz0331/Leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1046-last-stone-weight](https://github.com/Ejaz0331/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -769,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0983-minimum-cost-for-tickets](https://github.com/Ejaz0331/Leetcode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Ejaz0331/Leetcode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1014-best-sightseeing-pair](https://github.com/Ejaz0331/Leetcode/tree/main/1014-best-sightseeing-pair/) | Medium |
+| [1024-video-stitching](https://github.com/Ejaz0331/Leetcode/tree/main/1024-video-stitching/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -939,6 +941,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Ejaz0331/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Ejaz0331/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ejaz0331/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [1024-video-stitching](https://github.com/Ejaz0331/Leetcode/tree/main/1024-video-stitching/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ejaz0331/Leetcode/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
