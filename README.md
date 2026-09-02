@@ -626,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Ejaz0331/Leetcode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ejaz0331/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -699,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-find-all-good-strings](https://github.com/Ejaz0331/Leetcode/tree/main/1397-find-all-good-strings/) | Hard |
 | [1416-restore-the-array](https://github.com/Ejaz0331/Leetcode/tree/main/1416-restore-the-array/) | Hard |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ejaz0331/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Ejaz0331/Leetcode/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 | [1629-slowest-key](https://github.com/Ejaz0331/Leetcode/tree/main/1629-slowest-key/) | Easy |
@@ -867,6 +869,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ejaz0331/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1504-count-submatrices-with-all-ones](https://github.com/Ejaz0331/Leetcode/tree/main/1504-count-submatrices-with-all-ones/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ejaz0331/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ejaz0331/Leetcode/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ejaz0331/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -1473,6 +1476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ejaz0331/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ejaz0331/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/Ejaz0331/Leetcode/tree/main/2959-number-of-possible-sets-of-closing-branches/) | Hard |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Ejaz0331/Leetcode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
@@ -1502,6 +1506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Ejaz0331/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ejaz0331/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ejaz0331/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/Ejaz0331/Leetcode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
