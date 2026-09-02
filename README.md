@@ -445,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0845-longest-mountain-in-array](https://github.com/Ejaz0331/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0851-loud-and-rich](https://github.com/Ejaz0331/Leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Ejaz0331/Leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0934-shortest-bridge](https://github.com/Ejaz0331/Leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Ejaz0331/Leetcode/tree/main/0959-regions-cut-by-slashes/) | Medium |
@@ -735,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -1294,6 +1296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0672-bulb-switcher-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ejaz0331/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
