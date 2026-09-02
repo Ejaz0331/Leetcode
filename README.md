@@ -712,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0788-rotated-digits](https://github.com/Ejaz0331/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/Ejaz0331/Leetcode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0799-champagne-tower](https://github.com/Ejaz0331/Leetcode/tree/main/0799-champagne-tower/) | Medium |
 | [0808-soup-servings](https://github.com/Ejaz0331/Leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Ejaz0331/Leetcode/tree/main/0837-new-21-game/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
