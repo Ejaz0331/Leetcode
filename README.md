@@ -522,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Ejaz0331/Leetcode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ejaz0331/Leetcode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ejaz0331/Leetcode/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ejaz0331/Leetcode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
@@ -706,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1416-restore-the-array](https://github.com/Ejaz0331/Leetcode/tree/main/1416-restore-the-array/) | Hard |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ejaz0331/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ejaz0331/Leetcode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Ejaz0331/Leetcode/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 | [1629-slowest-key](https://github.com/Ejaz0331/Leetcode/tree/main/1629-slowest-key/) | Easy |
@@ -878,6 +880,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ejaz0331/Leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Ejaz0331/Leetcode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ejaz0331/Leetcode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ejaz0331/Leetcode/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ejaz0331/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -1052,6 +1055,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-reducing-dishes](https://github.com/Ejaz0331/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ejaz0331/Leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Ejaz0331/Leetcode/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ejaz0331/Leetcode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ejaz0331/Leetcode/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ejaz0331/Leetcode/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
