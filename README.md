@@ -472,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Ejaz0331/Leetcode/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1046-last-stone-weight](https://github.com/Ejaz0331/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1048-longest-string-chain](https://github.com/Ejaz0331/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1093-statistics-from-a-large-sample](https://github.com/Ejaz0331/Leetcode/tree/main/1093-statistics-from-a-large-sample/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Ejaz0331/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
@@ -583,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Ejaz0331/Leetcode/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
+| [1048-longest-string-chain](https://github.com/Ejaz0331/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ejaz0331/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Ejaz0331/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -656,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-distinct-subsequences-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0943-find-the-shortest-superstring](https://github.com/Ejaz0331/Leetcode/tree/main/0943-find-the-shortest-superstring/) | Hard |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ejaz0331/Leetcode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
+| [1048-longest-string-chain](https://github.com/Ejaz0331/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ejaz0331/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
@@ -781,6 +784,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Ejaz0331/Leetcode/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
+| [1048-longest-string-chain](https://github.com/Ejaz0331/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -1105,6 +1109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0838-push-dominoes](https://github.com/Ejaz0331/Leetcode/tree/main/0838-push-dominoes/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Ejaz0331/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [1048-longest-string-chain](https://github.com/Ejaz0331/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Ejaz0331/Leetcode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 ## Heap (Priority Queue)
@@ -1162,6 +1167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Ejaz0331/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/Ejaz0331/Leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
+| [1048-longest-string-chain](https://github.com/Ejaz0331/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Ejaz0331/Leetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
