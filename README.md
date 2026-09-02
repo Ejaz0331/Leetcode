@@ -466,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-best-sightseeing-pair](https://github.com/Ejaz0331/Leetcode/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Ejaz0331/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1024-video-stitching](https://github.com/Ejaz0331/Leetcode/tree/main/1024-video-stitching/) | Medium |
+| [1027-longest-arithmetic-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1034-coloring-a-border](https://github.com/Ejaz0331/Leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1046-last-stone-weight](https://github.com/Ejaz0331/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ejaz0331/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -578,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Ejaz0331/Leetcode/tree/main/0959-regions-cut-by-slashes/) | Medium |
+| [1027-longest-arithmetic-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ejaz0331/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Ejaz0331/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -772,6 +774,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-best-sightseeing-pair](https://github.com/Ejaz0331/Leetcode/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1024-video-stitching](https://github.com/Ejaz0331/Leetcode/tree/main/1024-video-stitching/) | Medium |
 | [1025-divisor-game](https://github.com/Ejaz0331/Leetcode/tree/main/1025-divisor-game/) | Easy |
+| [1027-longest-arithmetic-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -1010,6 +1013,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ejaz0331/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [0938-range-sum-of-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1027-longest-arithmetic-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
