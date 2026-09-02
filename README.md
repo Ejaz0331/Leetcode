@@ -481,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Ejaz0331/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Ejaz0331/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1139-largest-1-bordered-square](https://github.com/Ejaz0331/Leetcode/tree/main/1139-largest-1-bordered-square/) | Medium |
+| [1140-stone-game-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Ejaz0331/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -798,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Ejaz0331/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Ejaz0331/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1139-largest-1-bordered-square](https://github.com/Ejaz0331/Leetcode/tree/main/1139-largest-1-bordered-square/) | Medium |
+| [1140-stone-game-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -1003,6 +1005,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/Ejaz0331/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1093-statistics-from-a-large-sample](https://github.com/Ejaz0331/Leetcode/tree/main/1093-statistics-from-a-large-sample/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Ejaz0331/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1140-stone-game-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 | [1627-graph-connectivity-with-threshold](https://github.com/Ejaz0331/Leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
@@ -1404,6 +1407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0813-largest-sum-of-averages](https://github.com/Ejaz0331/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Ejaz0331/Leetcode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
+| [1140-stone-game-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ejaz0331/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/Ejaz0331/Leetcode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
@@ -1718,6 +1722,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0464-can-i-win](https://github.com/Ejaz0331/Leetcode/tree/main/0464-can-i-win/) | Medium |
 | [0486-predict-the-winner](https://github.com/Ejaz0331/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [1025-divisor-game](https://github.com/Ejaz0331/Leetcode/tree/main/1025-divisor-game/) | Easy |
+| [1140-stone-game-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1731,10 +1736,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Ejaz0331/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [1140-stone-game-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Ejaz0331/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [1140-stone-game-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
