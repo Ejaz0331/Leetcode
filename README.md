@@ -406,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Ejaz0331/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0403-frog-jump](https://github.com/Ejaz0331/Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0413-arithmetic-slices](https://github.com/Ejaz0331/Leetcode/tree/main/0413-arithmetic-slices/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ejaz0331/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Ejaz0331/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0463-island-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/0463-island-perimeter/) | Easy |
@@ -670,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0403-frog-jump](https://github.com/Ejaz0331/Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0413-arithmetic-slices](https://github.com/Ejaz0331/Leetcode/tree/main/0413-arithmetic-slices/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Ejaz0331/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0464-can-i-win](https://github.com/Ejaz0331/Leetcode/tree/main/0464-can-i-win/) | Medium |
 | [0466-count-the-repetitions](https://github.com/Ejaz0331/Leetcode/tree/main/0466-count-the-repetitions/) | Hard |
@@ -1470,6 +1472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Ejaz0331/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Ejaz0331/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Ejaz0331/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -1582,6 +1585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Ejaz0331/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0494-target-sum/) | Medium |
 ## Minimax
