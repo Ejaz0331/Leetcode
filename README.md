@@ -846,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-find-all-good-strings](https://github.com/Ejaz0331/Leetcode/tree/main/1397-find-all-good-strings/) | Hard |
 | [1402-reducing-dishes](https://github.com/Ejaz0331/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1406-stone-game-iii](https://github.com/Ejaz0331/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ejaz0331/Leetcode/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
@@ -1647,6 +1648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/Ejaz0331/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/Ejaz0331/Leetcode/tree/main/0886-possible-bipartition/) | Medium |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Ejaz0331/Leetcode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ejaz0331/Leetcode/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 ## Bipartite Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
