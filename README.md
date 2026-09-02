@@ -486,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ejaz0331/Leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Ejaz0331/Leetcode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Ejaz0331/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Ejaz0331/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Ejaz0331/Leetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
@@ -596,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ejaz0331/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Ejaz0331/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/Ejaz0331/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Ejaz0331/Leetcode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Ejaz0331/Leetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
@@ -808,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1162-as-far-from-land-as-possible](https://github.com/Ejaz0331/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ejaz0331/Leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Ejaz0331/Leetcode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ejaz0331/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
