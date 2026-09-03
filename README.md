@@ -554,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-operations-on-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1993-operations-on-tree/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ejaz0331/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Ejaz0331/Leetcode/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
+| [2054-two-best-non-overlapping-events](https://github.com/Ejaz0331/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2059-minimum-operations-to-convert-number](https://github.com/Ejaz0331/Leetcode/tree/main/2059-minimum-operations-to-convert-number/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ejaz0331/Leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ejaz0331/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
@@ -903,6 +904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ejaz0331/Leetcode/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ejaz0331/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ejaz0331/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
+| [2054-two-best-non-overlapping-events](https://github.com/Ejaz0331/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ejaz0331/Leetcode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
@@ -1161,6 +1163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ejaz0331/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ejaz0331/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
+| [2054-two-best-non-overlapping-events](https://github.com/Ejaz0331/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Ejaz0331/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
@@ -1258,6 +1261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1514-path-with-maximum-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ejaz0331/Leetcode/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
+| [2054-two-best-non-overlapping-events](https://github.com/Ejaz0331/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/Ejaz0331/Leetcode/tree/main/2662-minimum-cost-of-a-path-with-special-roads/) | Medium |
@@ -1319,6 +1323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1630-arithmetic-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ejaz0331/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
+| [2054-two-best-non-overlapping-events](https://github.com/Ejaz0331/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
