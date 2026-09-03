@@ -406,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Ejaz0331/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/Ejaz0331/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Ejaz0331/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0204-count-primes](https://github.com/Ejaz0331/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0213-house-robber-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/Ejaz0331/Leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -1114,6 +1115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Ejaz0331/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Ejaz0331/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0204-count-primes](https://github.com/Ejaz0331/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Ejaz0331/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/Ejaz0331/Leetcode/tree/main/0279-perfect-squares/) | Medium |
@@ -1468,6 +1470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Ejaz0331/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Ejaz0331/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/Ejaz0331/Leetcode/tree/main/1620-coordinate-with-maximum-network-quality/) | Medium |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Ejaz0331/Leetcode/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
@@ -1516,6 +1519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Ejaz0331/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Ejaz0331/Leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Ejaz0331/Leetcode/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ejaz0331/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -2063,4 +2067,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ejaz0331/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Ejaz0331/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Ejaz0331/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Ejaz0331/Leetcode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
