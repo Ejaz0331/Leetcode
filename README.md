@@ -564,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ejaz0331/Leetcode/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
 | [2140-solving-questions-with-brainpower](https://github.com/Ejaz0331/Leetcode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
+| [2172-maximum-and-sum-of-array](https://github.com/Ejaz0331/Leetcode/tree/main/2172-maximum-and-sum-of-array/) | Hard |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Ejaz0331/Leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
@@ -920,6 +921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ejaz0331/Leetcode/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
 | [2140-solving-questions-with-brainpower](https://github.com/Ejaz0331/Leetcode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ejaz0331/Leetcode/tree/main/2147-number-of-ways-to-divide-a-long-corridor/) | Hard |
+| [2172-maximum-and-sum-of-array](https://github.com/Ejaz0331/Leetcode/tree/main/2172-maximum-and-sum-of-array/) | Hard |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ejaz0331/Leetcode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
@@ -1554,6 +1556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ejaz0331/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ejaz0331/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
+| [2172-maximum-and-sum-of-array](https://github.com/Ejaz0331/Leetcode/tree/main/2172-maximum-and-sum-of-array/) | Hard |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/Ejaz0331/Leetcode/tree/main/2959-number-of-possible-sets-of-closing-branches/) | Hard |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Ejaz0331/Leetcode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
@@ -1574,6 +1577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ejaz0331/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ejaz0331/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
+| [2172-maximum-and-sum-of-array](https://github.com/Ejaz0331/Leetcode/tree/main/2172-maximum-and-sum-of-array/) | Hard |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
