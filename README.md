@@ -730,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2063-vowels-of-all-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Ejaz0331/Leetcode/tree/main/2086-minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ejaz0331/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ejaz0331/Leetcode/tree/main/2147-number-of-ways-to-divide-a-long-corridor/) | Hard |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ejaz0331/Leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ejaz0331/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
@@ -918,6 +919,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ejaz0331/Leetcode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ejaz0331/Leetcode/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
 | [2140-solving-questions-with-brainpower](https://github.com/Ejaz0331/Leetcode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ejaz0331/Leetcode/tree/main/2147-number-of-ways-to-divide-a-long-corridor/) | Hard |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ejaz0331/Leetcode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
@@ -1136,6 +1138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2063-vowels-of-all-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ejaz0331/Leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ejaz0331/Leetcode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ejaz0331/Leetcode/tree/main/2147-number-of-ways-to-divide-a-long-corridor/) | Hard |
 | [2961-double-modular-exponentiation](https://github.com/Ejaz0331/Leetcode/tree/main/2961-double-modular-exponentiation/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ejaz0331/Leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/Ejaz0331/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
