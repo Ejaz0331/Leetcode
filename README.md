@@ -565,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2140-solving-questions-with-brainpower](https://github.com/Ejaz0331/Leetcode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
 | [2172-maximum-and-sum-of-array](https://github.com/Ejaz0331/Leetcode/tree/main/2172-maximum-and-sum-of-array/) | Hard |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2304-minimum-path-cost-in-a-grid/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Ejaz0331/Leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
@@ -927,6 +928,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2172-maximum-and-sum-of-array](https://github.com/Ejaz0331/Leetcode/tree/main/2172-maximum-and-sum-of-array/) | Hard |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Ejaz0331/Leetcode/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2266-count-number-of-texts](https://github.com/Ejaz0331/Leetcode/tree/main/2266-count-number-of-texts/) | Medium |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2304-minimum-path-cost-in-a-grid/) | Medium |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ejaz0331/Leetcode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
@@ -1440,6 +1442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ejaz0331/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1992-find-all-groups-of-farmland](https://github.com/Ejaz0331/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2304-minimum-path-cost-in-a-grid/) | Medium |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Ejaz0331/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
