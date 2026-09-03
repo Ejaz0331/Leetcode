@@ -556,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Ejaz0331/Leetcode/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Ejaz0331/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2059-minimum-operations-to-convert-number](https://github.com/Ejaz0331/Leetcode/tree/main/2059-minimum-operations-to-convert-number/) | Medium |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/Ejaz0331/Leetcode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ejaz0331/Leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ejaz0331/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
@@ -909,6 +910,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-two-best-non-overlapping-events](https://github.com/Ejaz0331/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Ejaz0331/Leetcode/tree/main/2086-minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/Ejaz0331/Leetcode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ejaz0331/Leetcode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
@@ -1572,6 +1574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ejaz0331/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ejaz0331/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/Ejaz0331/Leetcode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/Ejaz0331/Leetcode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [2983-palindrome-rearrangement-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2983-palindrome-rearrangement-queries/) | Hard |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ejaz0331/Leetcode/tree/main/3015-count-the-number-of-houses-at-a-certain-distance-i/) | Medium |
