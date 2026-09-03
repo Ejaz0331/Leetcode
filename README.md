@@ -562,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ejaz0331/Leetcode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ejaz0331/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ejaz0331/Leetcode/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
+| [2140-solving-questions-with-brainpower](https://github.com/Ejaz0331/Leetcode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Ejaz0331/Leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
@@ -916,6 +917,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Ejaz0331/Leetcode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ejaz0331/Leetcode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ejaz0331/Leetcode/tree/main/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
+| [2140-solving-questions-with-brainpower](https://github.com/Ejaz0331/Leetcode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ejaz0331/Leetcode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
