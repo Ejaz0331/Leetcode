@@ -722,6 +722,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Ejaz0331/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ejaz0331/Leetcode/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ejaz0331/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
+| [2063-vowels-of-all-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ejaz0331/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ejaz0331/Leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ejaz0331/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
@@ -905,6 +906,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ejaz0331/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ejaz0331/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Ejaz0331/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
+| [2063-vowels-of-all-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ejaz0331/Leetcode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
@@ -1119,6 +1121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ejaz0331/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Ejaz0331/Leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1641-count-sorted-vowel-strings](https://github.com/Ejaz0331/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [2063-vowels-of-all-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ejaz0331/Leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2961-double-modular-exponentiation](https://github.com/Ejaz0331/Leetcode/tree/main/2961-double-modular-exponentiation/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ejaz0331/Leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
@@ -1862,6 +1865,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ejaz0331/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/Ejaz0331/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [2063-vowels-of-all-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ejaz0331/Leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 ## Polygons
 | Problem Name | Difficulty |
