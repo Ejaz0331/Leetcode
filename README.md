@@ -553,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1696-jump-game-vi](https://github.com/Ejaz0331/Leetcode/tree/main/1696-jump-game-vi/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ejaz0331/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [1774-closest-dessert-cost](https://github.com/Ejaz0331/Leetcode/tree/main/1774-closest-dessert-cost/) | Medium |
 | [1905-count-sub-islands](https://github.com/Ejaz0331/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ejaz0331/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
@@ -926,6 +927,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1696-jump-game-vi](https://github.com/Ejaz0331/Leetcode/tree/main/1696-jump-game-vi/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ejaz0331/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [1774-closest-dessert-cost](https://github.com/Ejaz0331/Leetcode/tree/main/1774-closest-dessert-cost/) | Medium |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ejaz0331/Leetcode/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ejaz0331/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ejaz0331/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
@@ -1233,6 +1235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Ejaz0331/Leetcode/tree/main/0967-numbers-with-same-consecutive-differences/) | Medium |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Ejaz0331/Leetcode/tree/main/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
+| [1774-closest-dessert-cost](https://github.com/Ejaz0331/Leetcode/tree/main/1774-closest-dessert-cost/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Ejaz0331/Leetcode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Stack
@@ -1842,6 +1845,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0956-tallest-billboard](https://github.com/Ejaz0331/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 | [1049-last-stone-weight-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/1449-form-largest-integer-with-digits-that-add-up-to-target/) | Hard |
+| [1774-closest-dessert-cost](https://github.com/Ejaz0331/Leetcode/tree/main/1774-closest-dessert-cost/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2099,4 +2103,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Ejaz0331/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Mixed Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1774-closest-dessert-cost](https://github.com/Ejaz0331/Leetcode/tree/main/1774-closest-dessert-cost/) | Medium |
 <!---LeetCode Topics End-->
