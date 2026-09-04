@@ -732,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Ejaz0331/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ejaz0331/Leetcode/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ejaz0331/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
+| [1668-maximum-repeating-substring](https://github.com/Ejaz0331/Leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Ejaz0331/Leetcode/tree/main/2086-minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ejaz0331/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
@@ -916,6 +917,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1641-count-sorted-vowel-strings](https://github.com/Ejaz0331/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ejaz0331/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
+| [1668-maximum-repeating-substring](https://github.com/Ejaz0331/Leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ejaz0331/Leetcode/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ejaz0331/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ejaz0331/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
@@ -2047,6 +2049,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1397-find-all-good-strings](https://github.com/Ejaz0331/Leetcode/tree/main/1397-find-all-good-strings/) | Hard |
+| [1668-maximum-repeating-substring](https://github.com/Ejaz0331/Leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
