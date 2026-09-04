@@ -933,6 +933,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ejaz0331/Leetcode/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1824-minimum-sideway-jumps](https://github.com/Ejaz0331/Leetcode/tree/main/1824-minimum-sideway-jumps/) | Medium |
 | [1871-jump-game-vii](https://github.com/Ejaz0331/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Ejaz0331/Leetcode/tree/main/1884-egg-drop-with-2-eggs-and-n-floors/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ejaz0331/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ejaz0331/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Ejaz0331/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
@@ -1166,6 +1167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1627-graph-connectivity-with-threshold](https://github.com/Ejaz0331/Leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1641-count-sorted-vowel-strings](https://github.com/Ejaz0331/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1690-stone-game-vii](https://github.com/Ejaz0331/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Ejaz0331/Leetcode/tree/main/1884-egg-drop-with-2-eggs-and-n-floors/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ejaz0331/Leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ejaz0331/Leetcode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
