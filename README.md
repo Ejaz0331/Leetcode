@@ -550,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/Ejaz0331/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1690-stone-game-vii](https://github.com/Ejaz0331/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
+| [1696-jump-game-vi](https://github.com/Ejaz0331/Leetcode/tree/main/1696-jump-game-vi/) | Medium |
 | [1905-count-sub-islands](https://github.com/Ejaz0331/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ejaz0331/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
@@ -920,6 +921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1668-maximum-repeating-substring](https://github.com/Ejaz0331/Leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1690-stone-game-vii](https://github.com/Ejaz0331/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
+| [1696-jump-game-vi](https://github.com/Ejaz0331/Leetcode/tree/main/1696-jump-game-vi/) | Medium |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ejaz0331/Leetcode/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ejaz0331/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ejaz0331/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
@@ -1300,6 +1302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1425-constrained-subsequence-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/Ejaz0331/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1696-jump-game-vi](https://github.com/Ejaz0331/Leetcode/tree/main/1696-jump-game-vi/) | Medium |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ejaz0331/Leetcode/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Ejaz0331/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
@@ -1625,6 +1628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0622-design-circular-queue](https://github.com/Ejaz0331/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [1425-constrained-subsequence-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1670-design-front-middle-back-queue](https://github.com/Ejaz0331/Leetcode/tree/main/1670-design-front-middle-back-queue/) | Medium |
+| [1696-jump-game-vi](https://github.com/Ejaz0331/Leetcode/tree/main/1696-jump-game-vi/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2060,6 +2064,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1425-constrained-subsequence-sum/) | Hard |
+| [1696-jump-game-vi](https://github.com/Ejaz0331/Leetcode/tree/main/1696-jump-game-vi/) | Medium |
 ## Perfect Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
