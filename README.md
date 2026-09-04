@@ -739,6 +739,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ejaz0331/Leetcode/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ejaz0331/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/Ejaz0331/Leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
+| [1871-jump-game-vii](https://github.com/Ejaz0331/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Ejaz0331/Leetcode/tree/main/2086-minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ejaz0331/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
@@ -931,6 +932,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1774-closest-dessert-cost](https://github.com/Ejaz0331/Leetcode/tree/main/1774-closest-dessert-cost/) | Medium |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ejaz0331/Leetcode/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1824-minimum-sideway-jumps](https://github.com/Ejaz0331/Leetcode/tree/main/1824-minimum-sideway-jumps/) | Medium |
+| [1871-jump-game-vii](https://github.com/Ejaz0331/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ejaz0331/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ejaz0331/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Ejaz0331/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
@@ -1566,6 +1568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ejaz0331/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Ejaz0331/Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ejaz0331/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1871-jump-game-vii](https://github.com/Ejaz0331/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ejaz0331/Leetcode/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ejaz0331/Leetcode/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ejaz0331/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
@@ -1629,6 +1632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ejaz0331/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ejaz0331/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/Ejaz0331/Leetcode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
+| [1871-jump-game-vii](https://github.com/Ejaz0331/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Ejaz0331/Leetcode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Ejaz0331/Leetcode/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
