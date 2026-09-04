@@ -552,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1690-stone-game-vii](https://github.com/Ejaz0331/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
 | [1696-jump-game-vi](https://github.com/Ejaz0331/Leetcode/tree/main/1696-jump-game-vi/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ejaz0331/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1905-count-sub-islands](https://github.com/Ejaz0331/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ejaz0331/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
@@ -924,6 +925,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1690-stone-game-vii](https://github.com/Ejaz0331/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
 | [1696-jump-game-vi](https://github.com/Ejaz0331/Leetcode/tree/main/1696-jump-game-vi/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ejaz0331/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ejaz0331/Leetcode/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ejaz0331/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ejaz0331/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
@@ -1203,6 +1205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ejaz0331/Leetcode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Ejaz0331/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ejaz0331/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ejaz0331/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Ejaz0331/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
@@ -1367,6 +1370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1626-best-team-with-no-conflicts](https://github.com/Ejaz0331/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ejaz0331/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Ejaz0331/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
