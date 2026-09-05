@@ -595,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2901-longest-unequal-adjacent-groups-subsequence-ii/) | Medium |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2961-double-modular-exponentiation](https://github.com/Ejaz0331/Leetcode/tree/main/2961-double-modular-exponentiation/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ejaz0331/Leetcode/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
@@ -987,6 +988,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2896-apply-operations-to-make-two-strings-equal/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2901-longest-unequal-adjacent-groups-subsequence-ii/) | Medium |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
@@ -1906,6 +1908,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-last-stone-weight-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/1449-form-largest-integer-with-digits-that-add-up-to-target/) | Hard |
 | [1774-closest-dessert-cost](https://github.com/Ejaz0331/Leetcode/tree/main/1774-closest-dessert-cost/) | Medium |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2032,6 +2035,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0956-tallest-billboard](https://github.com/Ejaz0331/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 | [1049-last-stone-weight-ii](https://github.com/Ejaz0331/Leetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
