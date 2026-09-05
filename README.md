@@ -590,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Ejaz0331/Leetcode/tree/main/2786-visit-array-positions-to-maximize-score/) | Medium |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/Ejaz0331/Leetcode/tree/main/2811-check-if-it-is-possible-to-split-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2826-sorting-three-groups](https://github.com/Ejaz0331/Leetcode/tree/main/2826-sorting-three-groups/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2961-double-modular-exponentiation](https://github.com/Ejaz0331/Leetcode/tree/main/2961-double-modular-exponentiation/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ejaz0331/Leetcode/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
@@ -970,6 +971,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Ejaz0331/Leetcode/tree/main/2786-visit-array-positions-to-maximize-score/) | Medium |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Ejaz0331/Leetcode/tree/main/2787-ways-to-express-an-integer-as-sum-of-powers/) | Medium |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/Ejaz0331/Leetcode/tree/main/2811-check-if-it-is-possible-to-split-array/) | Medium |
+| [2826-sorting-three-groups](https://github.com/Ejaz0331/Leetcode/tree/main/2826-sorting-three-groups/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ejaz0331/Leetcode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
@@ -1244,6 +1246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-two-best-non-overlapping-events](https://github.com/Ejaz0331/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2826-sorting-three-groups](https://github.com/Ejaz0331/Leetcode/tree/main/2826-sorting-three-groups/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Ejaz0331/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Ejaz0331/Leetcode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ejaz0331/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
