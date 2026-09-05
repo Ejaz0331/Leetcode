@@ -1001,6 +1001,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Ejaz0331/Leetcode/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Ejaz0331/Leetcode/tree/main/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -1233,6 +1234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2963-count-the-number-of-good-partitions](https://github.com/Ejaz0331/Leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/Ejaz0331/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Ejaz0331/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Ejaz0331/Leetcode/tree/main/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/) | Medium |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Ejaz0331/Leetcode/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ejaz0331/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
@@ -1282,6 +1284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Ejaz0331/Leetcode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ejaz0331/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Ejaz0331/Leetcode/tree/main/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/Ejaz0331/Leetcode/tree/main/3924-minimum-threshold-path-with-limited-heavy-edges/) | Hard |
 ## Backtracking
@@ -1667,6 +1670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/Ejaz0331/Leetcode/tree/main/2959-number-of-possible-sets-of-closing-branches/) | Hard |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Ejaz0331/Leetcode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Ejaz0331/Leetcode/tree/main/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Ejaz0331/Leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
