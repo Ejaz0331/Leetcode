@@ -760,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2266-count-number-of-texts](https://github.com/Ejaz0331/Leetcode/tree/main/2266-count-number-of-texts/) | Medium |
 | [2746-decremental-string-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/2746-decremental-string-concatenation/) | Medium |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
+| [2896-apply-operations-to-make-two-strings-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2896-apply-operations-to-make-two-strings-equal/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ejaz0331/Leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ejaz0331/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
@@ -979,6 +980,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Ejaz0331/Leetcode/tree/main/2830-maximize-the-profit-as-the-salesman/) | Medium |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ejaz0331/Leetcode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
+| [2896-apply-operations-to-make-two-strings-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2896-apply-operations-to-make-two-strings-equal/) | Medium |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
