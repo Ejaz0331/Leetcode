@@ -593,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2826-sorting-three-groups](https://github.com/Ejaz0331/Leetcode/tree/main/2826-sorting-three-groups/) | Medium |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Ejaz0331/Leetcode/tree/main/2830-maximize-the-profit-as-the-salesman/) | Medium |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2961-double-modular-exponentiation](https://github.com/Ejaz0331/Leetcode/tree/main/2961-double-modular-exponentiation/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ejaz0331/Leetcode/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
@@ -761,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2746-decremental-string-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/2746-decremental-string-concatenation/) | Medium |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2896-apply-operations-to-make-two-strings-equal/) | Medium |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ejaz0331/Leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ejaz0331/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
@@ -981,6 +983,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ejaz0331/Leetcode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2896-apply-operations-to-make-two-strings-equal/) | Medium |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
@@ -1157,6 +1160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Ejaz0331/Leetcode/tree/main/2086-minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Ejaz0331/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/Ejaz0331/Leetcode/tree/main/2811-check-if-it-is-possible-to-split-array/) | Medium |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ejaz0331/Leetcode/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Ejaz0331/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
