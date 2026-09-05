@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Ejaz0331/Leetcode/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
+| [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2925-maximum-score-after-applying-operations-on-a-tree/) | Medium |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Ejaz0331/Leetcode/tree/main/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Medium |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Hard |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Ejaz0331/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ejaz0331/Leetcode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
+| [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2925-maximum-score-after-applying-operations-on-a-tree/) | Medium |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [3123-find-edges-in-shortest-paths](https://github.com/Ejaz0331/Leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/Ejaz0331/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -991,6 +993,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2901-longest-unequal-adjacent-groups-subsequence-ii/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/Ejaz0331/Leetcode/tree/main/2919-minimum-increment-operations-to-make-array-beautiful/) | Medium |
+| [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2925-maximum-score-after-applying-operations-on-a-tree/) | Medium |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
@@ -1454,6 +1457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Ejaz0331/Leetcode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
+| [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2925-maximum-score-after-applying-operations-on-a-tree/) | Medium |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
