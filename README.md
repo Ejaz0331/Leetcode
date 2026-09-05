@@ -614,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ejaz0331/Leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Ejaz0331/Leetcode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [2983-palindrome-rearrangement-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2983-palindrome-rearrangement-queries/) | Hard |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3040-maximum-number-of-operations-with-the-same-score-ii/) | Medium |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/3112-minimum-time-to-visit-disappearing-nodes/) | Medium |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Ejaz0331/Leetcode/tree/main/3243-shortest-distance-after-road-addition-queries-i/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -1002,6 +1003,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Ejaz0331/Leetcode/tree/main/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/) | Medium |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3040-maximum-number-of-operations-with-the-same-score-ii/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -1836,6 +1838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Ejaz0331/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3040-maximum-number-of-operations-with-the-same-score-ii/) | Medium |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
