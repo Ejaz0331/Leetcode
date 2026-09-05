@@ -596,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2901-longest-unequal-adjacent-groups-subsequence-ii/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
+| [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/Ejaz0331/Leetcode/tree/main/2919-minimum-increment-operations-to-make-array-beautiful/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2961-double-modular-exponentiation](https://github.com/Ejaz0331/Leetcode/tree/main/2961-double-modular-exponentiation/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ejaz0331/Leetcode/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
@@ -989,6 +990,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2901-longest-unequal-adjacent-groups-subsequence-ii/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
+| [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/Ejaz0331/Leetcode/tree/main/2919-minimum-increment-operations-to-make-array-beautiful/) | Medium |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
