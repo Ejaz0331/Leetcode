@@ -972,6 +972,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Ejaz0331/Leetcode/tree/main/2787-ways-to-express-an-integer-as-sum-of-powers/) | Medium |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/Ejaz0331/Leetcode/tree/main/2811-check-if-it-is-possible-to-split-array/) | Medium |
 | [2826-sorting-three-groups](https://github.com/Ejaz0331/Leetcode/tree/main/2826-sorting-three-groups/) | Medium |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ejaz0331/Leetcode/tree/main/2827-number-of-beautiful-integers-in-the-range/) | Hard |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ejaz0331/Leetcode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
@@ -1199,6 +1200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2266-count-number-of-texts](https://github.com/Ejaz0331/Leetcode/tree/main/2266-count-number-of-texts/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Ejaz0331/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/2750-ways-to-split-array-into-good-subarrays/) | Medium |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ejaz0331/Leetcode/tree/main/2827-number-of-beautiful-integers-in-the-range/) | Hard |
 | [2961-double-modular-exponentiation](https://github.com/Ejaz0331/Leetcode/tree/main/2961-double-modular-exponentiation/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ejaz0331/Leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/Ejaz0331/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
