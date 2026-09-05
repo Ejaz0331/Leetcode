@@ -770,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2896-apply-operations-to-make-two-strings-equal/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2901-longest-unequal-adjacent-groups-subsequence-ii/) | Medium |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/Ejaz0331/Leetcode/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ejaz0331/Leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ejaz0331/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
@@ -997,6 +998,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2925-maximum-score-after-applying-operations-on-a-tree/) | Medium |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Ejaz0331/Leetcode/tree/main/2930-number-of-strings-which-can-be-rearranged-to-contain-substring/) | Medium |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Ejaz0331/Leetcode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/Ejaz0331/Leetcode/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
@@ -1174,6 +1176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2745-construct-the-longest-new-string](https://github.com/Ejaz0331/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/Ejaz0331/Leetcode/tree/main/2811-check-if-it-is-possible-to-split-array/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/Ejaz0331/Leetcode/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ejaz0331/Leetcode/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Ejaz0331/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
