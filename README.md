@@ -967,6 +967,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ejaz0331/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/Ejaz0331/Leetcode/tree/main/2771-longest-non-decreasing-subarray-from-two-arrays/) | Medium |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Ejaz0331/Leetcode/tree/main/2786-visit-array-positions-to-maximize-score/) | Medium |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Ejaz0331/Leetcode/tree/main/2787-ways-to-express-an-integer-as-sum-of-powers/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ejaz0331/Leetcode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
