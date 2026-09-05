@@ -592,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2826-sorting-three-groups](https://github.com/Ejaz0331/Leetcode/tree/main/2826-sorting-three-groups/) | Medium |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Ejaz0331/Leetcode/tree/main/2830-maximize-the-profit-as-the-salesman/) | Medium |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2961-double-modular-exponentiation](https://github.com/Ejaz0331/Leetcode/tree/main/2961-double-modular-exponentiation/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ejaz0331/Leetcode/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
@@ -976,6 +977,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2826-sorting-three-groups](https://github.com/Ejaz0331/Leetcode/tree/main/2826-sorting-three-groups/) | Medium |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ejaz0331/Leetcode/tree/main/2827-number-of-beautiful-integers-in-the-range/) | Hard |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Ejaz0331/Leetcode/tree/main/2830-maximize-the-profit-as-the-salesman/) | Medium |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Ejaz0331/Leetcode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
@@ -1278,6 +1280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1774-closest-dessert-cost](https://github.com/Ejaz0331/Leetcode/tree/main/1774-closest-dessert-cost/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Ejaz0331/Leetcode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -1512,6 +1515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2596-check-knight-tour-configuration](https://github.com/Ejaz0331/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Ejaz0331/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ejaz0331/Leetcode/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
@@ -1635,6 +1639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [2172-maximum-and-sum-of-array](https://github.com/Ejaz0331/Leetcode/tree/main/2172-maximum-and-sum-of-array/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/Ejaz0331/Leetcode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/Ejaz0331/Leetcode/tree/main/2959-number-of-possible-sets-of-closing-branches/) | Hard |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Ejaz0331/Leetcode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
@@ -1657,6 +1662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [2172-maximum-and-sum-of-array](https://github.com/Ejaz0331/Leetcode/tree/main/2172-maximum-and-sum-of-array/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/Ejaz0331/Leetcode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
