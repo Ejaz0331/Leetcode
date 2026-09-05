@@ -599,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2901-longest-unequal-adjacent-groups-subsequence-ii/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/Ejaz0331/Leetcode/tree/main/2919-minimum-increment-operations-to-make-array-beautiful/) | Medium |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/Ejaz0331/Leetcode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2961-double-modular-exponentiation](https://github.com/Ejaz0331/Leetcode/tree/main/2961-double-modular-exponentiation/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ejaz0331/Leetcode/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
@@ -995,6 +996,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/Ejaz0331/Leetcode/tree/main/2919-minimum-increment-operations-to-make-array-beautiful/) | Medium |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2925-maximum-score-after-applying-operations-on-a-tree/) | Medium |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Ejaz0331/Leetcode/tree/main/2930-number-of-strings-which-can-be-rearranged-to-contain-substring/) | Medium |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/Ejaz0331/Leetcode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
@@ -1379,6 +1381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/Ejaz0331/Leetcode/tree/main/2662-minimum-cost-of-a-path-with-special-roads/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/Ejaz0331/Leetcode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/Ejaz0331/Leetcode/tree/main/2959-number-of-possible-sets-of-closing-branches/) | Hard |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [2974-minimum-number-game](https://github.com/Ejaz0331/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
@@ -1708,6 +1711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1425-constrained-subsequence-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1670-design-front-middle-back-queue](https://github.com/Ejaz0331/Leetcode/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [1696-jump-game-vi](https://github.com/Ejaz0331/Leetcode/tree/main/1696-jump-game-vi/) | Medium |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/Ejaz0331/Leetcode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2149,6 +2153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1696-jump-game-vi](https://github.com/Ejaz0331/Leetcode/tree/main/1696-jump-game-vi/) | Medium |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/Ejaz0331/Leetcode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
 ## Perfect Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
