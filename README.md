@@ -994,6 +994,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ejaz0331/Leetcode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/Ejaz0331/Leetcode/tree/main/2919-minimum-increment-operations-to-make-array-beautiful/) | Medium |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2925-maximum-score-after-applying-operations-on-a-tree/) | Medium |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Ejaz0331/Leetcode/tree/main/2930-number-of-strings-which-can-be-rearranged-to-contain-substring/) | Medium |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
@@ -1222,6 +1223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2745-construct-the-longest-new-string](https://github.com/Ejaz0331/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/2750-ways-to-split-array-into-good-subarrays/) | Medium |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ejaz0331/Leetcode/tree/main/2827-number-of-beautiful-integers-in-the-range/) | Hard |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Ejaz0331/Leetcode/tree/main/2930-number-of-strings-which-can-be-rearranged-to-contain-substring/) | Medium |
 | [2961-double-modular-exponentiation](https://github.com/Ejaz0331/Leetcode/tree/main/2961-double-modular-exponentiation/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ejaz0331/Leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/Ejaz0331/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -2001,6 +2003,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ejaz0331/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/Ejaz0331/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Ejaz0331/Leetcode/tree/main/2930-number-of-strings-which-can-be-rearranged-to-contain-substring/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ejaz0331/Leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 ## Polygons
 | Problem Name | Difficulty |
