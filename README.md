@@ -630,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Ejaz0331/Leetcode/tree/main/3259-maximum-energy-boost-from-two-drinks/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3290-maximum-multiplication-score](https://github.com/Ejaz0331/Leetcode/tree/main/3290-maximum-multiplication-score/) | Medium |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Ejaz0331/Leetcode/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ejaz0331/Leetcode/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
@@ -791,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
 | [2983-palindrome-rearrangement-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2983-palindrome-rearrangement-queries/) | Hard |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Ejaz0331/Leetcode/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Ejaz0331/Leetcode/tree/main/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Dynamic Programming
@@ -1033,6 +1035,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Ejaz0331/Leetcode/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Ejaz0331/Leetcode/tree/main/3259-maximum-energy-boost-from-two-drinks/) | Medium |
 | [3290-maximum-multiplication-score](https://github.com/Ejaz0331/Leetcode/tree/main/3290-maximum-multiplication-score/) | Medium |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Ejaz0331/Leetcode/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -1214,6 +1217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Ejaz0331/Leetcode/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Ejaz0331/Leetcode/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1318,6 +1322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ejaz0331/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Ejaz0331/Leetcode/tree/main/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/) | Medium |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Ejaz0331/Leetcode/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/Ejaz0331/Leetcode/tree/main/3924-minimum-threshold-path-with-limited-heavy-edges/) | Hard |
 ## Backtracking
@@ -1894,11 +1899,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ejaz0331/Leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Ejaz0331/Leetcode/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ejaz0331/Leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ejaz0331/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Ejaz0331/Leetcode/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2076,6 +2083,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Ejaz0331/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0472-concatenated-words](https://github.com/Ejaz0331/Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0792-number-of-matching-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Ejaz0331/Leetcode/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 ## Brute-Force Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2139,6 +2147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1395-count-number-of-teams](https://github.com/Ejaz0331/Leetcode/tree/main/1395-count-number-of-teams/) | Medium |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Ejaz0331/Leetcode/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 ## Hamiltonian Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2198,6 +2207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1397-find-all-good-strings](https://github.com/Ejaz0331/Leetcode/tree/main/1397-find-all-good-strings/) | Hard |
 | [1668-maximum-repeating-substring](https://github.com/Ejaz0331/Leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Ejaz0331/Leetcode/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
