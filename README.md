@@ -697,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ejaz0331/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
 | [2983-palindrome-rearrangement-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2983-palindrome-rearrangement-queries/) | Hard |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -777,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ejaz0331/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
 | [2983-palindrome-rearrangement-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2983-palindrome-rearrangement-queries/) | Hard |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Ejaz0331/Leetcode/tree/main/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Dynamic Programming
@@ -1007,6 +1009,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3040-maximum-number-of-operations-with-the-same-score-ii/) | Medium |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ejaz0331/Leetcode/tree/main/3122-minimum-number-of-operations-to-satisfy-conditions/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ejaz0331/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -1499,6 +1502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ejaz0331/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
