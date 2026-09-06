@@ -620,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ejaz0331/Leetcode/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3148-maximum-difference-score-in-a-grid/) | Medium |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/3176-find-the-maximum-length-of-a-good-subsequence-i/) | Medium |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/Ejaz0331/Leetcode/tree/main/3180-maximum-total-reward-using-operations-i/) | Medium |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Ejaz0331/Leetcode/tree/main/3243-shortest-distance-after-road-addition-queries-i/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ejaz0331/Leetcode/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
@@ -1017,6 +1018,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ejaz0331/Leetcode/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3148-maximum-difference-score-in-a-grid/) | Medium |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/3176-find-the-maximum-length-of-a-good-subsequence-i/) | Medium |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/Ejaz0331/Leetcode/tree/main/3180-maximum-total-reward-using-operations-i/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -1471,6 +1473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [2974-minimum-number-game](https://github.com/Ejaz0331/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/Ejaz0331/Leetcode/tree/main/3180-maximum-total-reward-using-operations-i/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1689,6 +1692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/Ejaz0331/Leetcode/tree/main/2959-number-of-possible-sets-of-closing-branches/) | Hard |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Ejaz0331/Leetcode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Ejaz0331/Leetcode/tree/main/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/) | Medium |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/Ejaz0331/Leetcode/tree/main/3180-maximum-total-reward-using-operations-i/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Ejaz0331/Leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
