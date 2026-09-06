@@ -617,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3040-maximum-number-of-operations-with-the-same-score-ii/) | Medium |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/3112-minimum-time-to-visit-disappearing-nodes/) | Medium |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ejaz0331/Leetcode/tree/main/3122-minimum-number-of-operations-to-satisfy-conditions/) | Medium |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ejaz0331/Leetcode/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Ejaz0331/Leetcode/tree/main/3243-shortest-distance-after-road-addition-queries-i/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ejaz0331/Leetcode/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
@@ -1010,6 +1011,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ejaz0331/Leetcode/tree/main/3122-minimum-number-of-operations-to-satisfy-conditions/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ejaz0331/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ejaz0331/Leetcode/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -1722,6 +1724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2983-palindrome-rearrangement-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2983-palindrome-rearrangement-queries/) | Hard |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ejaz0331/Leetcode/tree/main/3015-count-the-number-of-houses-at-a-certain-distance-i/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ejaz0331/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ejaz0331/Leetcode/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
