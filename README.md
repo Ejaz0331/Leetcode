@@ -623,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Ejaz0331/Leetcode/tree/main/3180-maximum-total-reward-using-operations-i/) | Medium |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii/) | Medium |
 | [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/3196-maximize-total-cost-of-alternating-subarrays/) | Medium |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/3201-find-the-maximum-length-of-valid-subsequence-i/) | Medium |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Ejaz0331/Leetcode/tree/main/3243-shortest-distance-after-road-addition-queries-i/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ejaz0331/Leetcode/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
@@ -1023,6 +1024,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Ejaz0331/Leetcode/tree/main/3180-maximum-total-reward-using-operations-i/) | Medium |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii/) | Medium |
 | [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/3196-maximize-total-cost-of-alternating-subarrays/) | Medium |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/3201-find-the-maximum-length-of-valid-subsequence-i/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
