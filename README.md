@@ -793,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2983-palindrome-rearrangement-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2983-palindrome-rearrangement-queries/) | Hard |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Ejaz0331/Leetcode/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ejaz0331/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Ejaz0331/Leetcode/tree/main/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Dynamic Programming
@@ -1036,6 +1037,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Ejaz0331/Leetcode/tree/main/3259-maximum-energy-boost-from-two-drinks/) | Medium |
 | [3290-maximum-multiplication-score](https://github.com/Ejaz0331/Leetcode/tree/main/3290-maximum-multiplication-score/) | Medium |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Ejaz0331/Leetcode/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ejaz0331/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -1218,6 +1220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Ejaz0331/Leetcode/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Ejaz0331/Leetcode/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ejaz0331/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1407,6 +1410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Ejaz0331/Leetcode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Ejaz0331/Leetcode/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ejaz0331/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
