@@ -714,6 +714,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/3176-find-the-maximum-length-of-a-good-subsequence-i/) | Medium |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Ejaz0331/Leetcode/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/Ejaz0331/Leetcode/tree/main/3335-total-characters-in-string-after-transformations-i/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -798,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Ejaz0331/Leetcode/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ejaz0331/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Ejaz0331/Leetcode/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/Ejaz0331/Leetcode/tree/main/3335-total-characters-in-string-after-transformations-i/) | Medium |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Ejaz0331/Leetcode/tree/main/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Dynamic Programming
@@ -1044,6 +1046,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ejaz0331/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Ejaz0331/Leetcode/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
 | [3332-maximum-points-tourist-can-earn](https://github.com/Ejaz0331/Leetcode/tree/main/3332-maximum-points-tourist-can-earn/) | Medium |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/Ejaz0331/Leetcode/tree/main/3335-total-characters-in-string-after-transformations-i/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -1281,6 +1284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2965-find-missing-and-repeated-values](https://github.com/Ejaz0331/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Ejaz0331/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Ejaz0331/Leetcode/tree/main/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/) | Medium |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/Ejaz0331/Leetcode/tree/main/3335-total-characters-in-string-after-transformations-i/) | Medium |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Ejaz0331/Leetcode/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ejaz0331/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
@@ -1547,6 +1551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ejaz0331/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/Ejaz0331/Leetcode/tree/main/3335-total-characters-in-string-after-transformations-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
