@@ -1006,6 +1006,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Ejaz0331/Leetcode/tree/main/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/) | Medium |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3040-maximum-number-of-operations-with-the-same-score-ii/) | Medium |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ejaz0331/Leetcode/tree/main/3122-minimum-number-of-operations-to-satisfy-conditions/) | Medium |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ejaz0331/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -1716,6 +1717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ejaz0331/Leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [2983-palindrome-rearrangement-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2983-palindrome-rearrangement-queries/) | Hard |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ejaz0331/Leetcode/tree/main/3015-count-the-number-of-houses-at-a-certain-distance-i/) | Medium |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ejaz0331/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
