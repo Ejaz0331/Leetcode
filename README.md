@@ -642,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Ejaz0331/Leetcode/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Ejaz0331/Leetcode/tree/main/3409-longest-subsequence-with-decreasing-adjacent-difference/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ejaz0331/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -1058,6 +1059,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Ejaz0331/Leetcode/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Ejaz0331/Leetcode/tree/main/3409-longest-subsequence-with-decreasing-adjacent-difference/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ejaz0331/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1296,6 +1298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Ejaz0331/Leetcode/tree/main/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/) | Medium |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Ejaz0331/Leetcode/tree/main/3335-total-characters-in-string-after-transformations-i/) | Medium |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Ejaz0331/Leetcode/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ejaz0331/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Binary Search Tree
@@ -1522,6 +1525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2974-minimum-number-game](https://github.com/Ejaz0331/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Ejaz0331/Leetcode/tree/main/3180-maximum-total-reward-using-operations-i/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Ejaz0331/Leetcode/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2096,6 +2100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2063-vowels-of-all-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Ejaz0331/Leetcode/tree/main/2930-number-of-strings-which-can-be-rearranged-to-contain-substring/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ejaz0331/Leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |
 ## Polygons
 | Problem Name | Difficulty |
 | ------- | ------- |
