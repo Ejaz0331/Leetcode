@@ -640,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Ejaz0331/Leetcode/tree/main/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
 | [3388-count-beautiful-splits-in-an-array](https://github.com/Ejaz0331/Leetcode/tree/main/3388-count-beautiful-splits-in-an-array/) | Medium |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Ejaz0331/Leetcode/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
+| [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Ejaz0331/Leetcode/tree/main/3409-longest-subsequence-with-decreasing-adjacent-difference/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -1054,6 +1055,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 | [3388-count-beautiful-splits-in-an-array](https://github.com/Ejaz0331/Leetcode/tree/main/3388-count-beautiful-splits-in-an-array/) | Medium |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Ejaz0331/Leetcode/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
+| [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Ejaz0331/Leetcode/tree/main/3409-longest-subsequence-with-decreasing-adjacent-difference/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
