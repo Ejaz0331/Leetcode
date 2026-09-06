@@ -619,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ejaz0331/Leetcode/tree/main/3122-minimum-number-of-operations-to-satisfy-conditions/) | Medium |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ejaz0331/Leetcode/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3148-maximum-difference-score-in-a-grid/) | Medium |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/3176-find-the-maximum-length-of-a-good-subsequence-i/) | Medium |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Ejaz0331/Leetcode/tree/main/3243-shortest-distance-after-road-addition-queries-i/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ejaz0331/Leetcode/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
@@ -700,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
 | [2983-palindrome-rearrangement-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2983-palindrome-rearrangement-queries/) | Hard |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/3176-find-the-maximum-length-of-a-good-subsequence-i/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -1014,6 +1016,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Ejaz0331/Leetcode/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ejaz0331/Leetcode/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3148-maximum-difference-score-in-a-grid/) | Medium |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/3176-find-the-maximum-length-of-a-good-subsequence-i/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
