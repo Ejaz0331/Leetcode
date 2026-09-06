@@ -643,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Ejaz0331/Leetcode/tree/main/3409-longest-subsequence-with-decreasing-adjacent-difference/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ejaz0331/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |
+| [3429-paint-house-iv](https://github.com/Ejaz0331/Leetcode/tree/main/3429-paint-house-iv/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -1060,6 +1061,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Ejaz0331/Leetcode/tree/main/3409-longest-subsequence-with-decreasing-adjacent-difference/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ejaz0331/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |
+| [3429-paint-house-iv](https://github.com/Ejaz0331/Leetcode/tree/main/3429-paint-house-iv/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
