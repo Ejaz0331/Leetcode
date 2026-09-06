@@ -641,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3388-count-beautiful-splits-in-an-array](https://github.com/Ejaz0331/Leetcode/tree/main/3388-count-beautiful-splits-in-an-array/) | Medium |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Ejaz0331/Leetcode/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Ejaz0331/Leetcode/tree/main/3409-longest-subsequence-with-decreasing-adjacent-difference/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ejaz0331/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -1056,6 +1057,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3388-count-beautiful-splits-in-an-array](https://github.com/Ejaz0331/Leetcode/tree/main/3388-count-beautiful-splits-in-an-array/) | Medium |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Ejaz0331/Leetcode/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Ejaz0331/Leetcode/tree/main/3409-longest-subsequence-with-decreasing-adjacent-difference/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ejaz0331/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1618,6 +1620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ejaz0331/Leetcode/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Ejaz0331/Leetcode/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ejaz0331/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ejaz0331/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
