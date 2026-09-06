@@ -632,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3290-maximum-multiplication-score](https://github.com/Ejaz0331/Leetcode/tree/main/3290-maximum-multiplication-score/) | Medium |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Ejaz0331/Leetcode/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Ejaz0331/Leetcode/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
+| [3332-maximum-points-tourist-can-earn](https://github.com/Ejaz0331/Leetcode/tree/main/3332-maximum-points-tourist-can-earn/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ejaz0331/Leetcode/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
@@ -1042,6 +1043,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Ejaz0331/Leetcode/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ejaz0331/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Ejaz0331/Leetcode/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
+| [3332-maximum-points-tourist-can-earn](https://github.com/Ejaz0331/Leetcode/tree/main/3332-maximum-points-tourist-can-earn/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -1599,6 +1601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Ejaz0331/Leetcode/tree/main/3122-minimum-number-of-operations-to-satisfy-conditions/) | Medium |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3148-maximum-difference-score-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3332-maximum-points-tourist-can-earn](https://github.com/Ejaz0331/Leetcode/tree/main/3332-maximum-points-tourist-can-earn/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ejaz0331/Leetcode/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
