@@ -646,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-paint-house-iv](https://github.com/Ejaz0331/Leetcode/tree/main/3429-paint-house-iv/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Ejaz0331/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/Ejaz0331/Leetcode/tree/main/3469-find-minimum-cost-to-remove-array-elements/) | Medium |
+| [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Ejaz0331/Leetcode/tree/main/3473-sum-of-k-subarrays-with-length-at-least-m/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -1072,6 +1073,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3458-select-k-disjoint-special-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/3458-select-k-disjoint-special-substrings/) | Medium |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/Ejaz0331/Leetcode/tree/main/3469-find-minimum-cost-to-remove-array-elements/) | Medium |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Ejaz0331/Leetcode/tree/main/3472-longest-palindromic-subsequence-after-at-most-k-operations/) | Medium |
+| [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Ejaz0331/Leetcode/tree/main/3473-sum-of-k-subarrays-with-length-at-least-m/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1809,6 +1811,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ejaz0331/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ejaz0331/Leetcode/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Ejaz0331/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
+| [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Ejaz0331/Leetcode/tree/main/3473-sum-of-k-subarrays-with-length-at-least-m/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
