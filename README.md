@@ -813,6 +813,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Ejaz0331/Leetcode/tree/main/3335-total-characters-in-string-after-transformations-i/) | Medium |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Ejaz0331/Leetcode/tree/main/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
 | [3458-select-k-disjoint-special-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/3458-select-k-disjoint-special-substrings/) | Medium |
+| [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Ejaz0331/Leetcode/tree/main/3472-longest-palindromic-subsequence-after-at-most-k-operations/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -1070,6 +1071,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Ejaz0331/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3458-select-k-disjoint-special-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/3458-select-k-disjoint-special-substrings/) | Medium |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/Ejaz0331/Leetcode/tree/main/3469-find-minimum-cost-to-remove-array-elements/) | Medium |
+| [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Ejaz0331/Leetcode/tree/main/3472-longest-palindromic-subsequence-after-at-most-k-operations/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
