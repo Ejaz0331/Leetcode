@@ -649,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Ejaz0331/Leetcode/tree/main/3473-sum-of-k-subarrays-with-length-at-least-m/) | Medium |
 | [3489-zero-array-transformation-iv](https://github.com/Ejaz0331/Leetcode/tree/main/3489-zero-array-transformation-iv/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/Ejaz0331/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
@@ -1078,6 +1079,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Ejaz0331/Leetcode/tree/main/3473-sum-of-k-subarrays-with-length-at-least-m/) | Medium |
 | [3489-zero-array-transformation-iv](https://github.com/Ejaz0331/Leetcode/tree/main/3489-zero-array-transformation-iv/) | Medium |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Ejaz0331/Leetcode/tree/main/3503-longest-palindrome-after-substring-concatenation-i/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/Ejaz0331/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1319,6 +1321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Ejaz0331/Leetcode/tree/main/3335-total-characters-in-string-after-transformations-i/) | Medium |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Ejaz0331/Leetcode/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/Ejaz0331/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ejaz0331/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Binary Search Tree
