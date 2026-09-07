@@ -816,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Ejaz0331/Leetcode/tree/main/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
 | [3458-select-k-disjoint-special-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/3458-select-k-disjoint-special-substrings/) | Medium |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Ejaz0331/Leetcode/tree/main/3472-longest-palindromic-subsequence-after-at-most-k-operations/) | Medium |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Ejaz0331/Leetcode/tree/main/3503-longest-palindrome-after-substring-concatenation-i/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -1076,6 +1077,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Ejaz0331/Leetcode/tree/main/3472-longest-palindromic-subsequence-after-at-most-k-operations/) | Medium |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Ejaz0331/Leetcode/tree/main/3473-sum-of-k-subarrays-with-length-at-least-m/) | Medium |
 | [3489-zero-array-transformation-iv](https://github.com/Ejaz0331/Leetcode/tree/main/3489-zero-array-transformation-iv/) | Medium |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Ejaz0331/Leetcode/tree/main/3503-longest-palindrome-after-substring-concatenation-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1453,6 +1455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Ejaz0331/Leetcode/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ejaz0331/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Ejaz0331/Leetcode/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Ejaz0331/Leetcode/tree/main/3503-longest-palindrome-after-substring-concatenation-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1666,6 +1669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Ejaz0331/Leetcode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ejaz0331/Leetcode/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Ejaz0331/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Ejaz0331/Leetcode/tree/main/3503-longest-palindrome-after-substring-concatenation-i/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Ejaz0331/Leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
