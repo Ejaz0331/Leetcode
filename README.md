@@ -647,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Ejaz0331/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/Ejaz0331/Leetcode/tree/main/3469-find-minimum-cost-to-remove-array-elements/) | Medium |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Ejaz0331/Leetcode/tree/main/3473-sum-of-k-subarrays-with-length-at-least-m/) | Medium |
+| [3489-zero-array-transformation-iv](https://github.com/Ejaz0331/Leetcode/tree/main/3489-zero-array-transformation-iv/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -1074,6 +1075,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/Ejaz0331/Leetcode/tree/main/3469-find-minimum-cost-to-remove-array-elements/) | Medium |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Ejaz0331/Leetcode/tree/main/3472-longest-palindromic-subsequence-after-at-most-k-operations/) | Medium |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Ejaz0331/Leetcode/tree/main/3473-sum-of-k-subarrays-with-length-at-least-m/) | Medium |
+| [3489-zero-array-transformation-iv](https://github.com/Ejaz0331/Leetcode/tree/main/3489-zero-array-transformation-iv/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
