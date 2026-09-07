@@ -644,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ejaz0331/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |
 | [3429-paint-house-iv](https://github.com/Ejaz0331/Leetcode/tree/main/3429-paint-house-iv/) | Medium |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Ejaz0331/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -722,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/3176-find-the-maximum-length-of-a-good-subsequence-i/) | Medium |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Ejaz0331/Leetcode/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Ejaz0331/Leetcode/tree/main/3335-total-characters-in-string-after-transformations-i/) | Medium |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Ejaz0331/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -1062,6 +1064,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ejaz0331/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |
 | [3429-paint-house-iv](https://github.com/Ejaz0331/Leetcode/tree/main/3429-paint-house-iv/) | Medium |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Ejaz0331/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1244,6 +1247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Ejaz0331/Leetcode/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Ejaz0331/Leetcode/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ejaz0331/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Ejaz0331/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1648,6 +1652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/Ejaz0331/Leetcode/tree/main/2959-number-of-possible-sets-of-closing-branches/) | Hard |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Ejaz0331/Leetcode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ejaz0331/Leetcode/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Ejaz0331/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Ejaz0331/Leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -1794,6 +1799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ejaz0331/Leetcode/tree/main/3015-count-the-number-of-houses-at-a-certain-distance-i/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ejaz0331/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ejaz0331/Leetcode/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Ejaz0331/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
