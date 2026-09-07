@@ -730,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Ejaz0331/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3458-select-k-disjoint-special-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/3458-select-k-disjoint-special-substrings/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
+| [3543-maximum-weighted-k-edge-path](https://github.com/Ejaz0331/Leetcode/tree/main/3543-maximum-weighted-k-edge-path/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
@@ -1080,6 +1081,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3489-zero-array-transformation-iv](https://github.com/Ejaz0331/Leetcode/tree/main/3489-zero-array-transformation-iv/) | Medium |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Ejaz0331/Leetcode/tree/main/3503-longest-palindrome-after-substring-concatenation-i/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Ejaz0331/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3543-maximum-weighted-k-edge-path](https://github.com/Ejaz0331/Leetcode/tree/main/3543-maximum-weighted-k-edge-path/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1900,6 +1902,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3528-unit-conversion-i](https://github.com/Ejaz0331/Leetcode/tree/main/3528-unit-conversion-i/) | Medium |
+| [3543-maximum-weighted-k-edge-path](https://github.com/Ejaz0331/Leetcode/tree/main/3543-maximum-weighted-k-edge-path/) | Medium |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3604-minimum-time-to-reach-destination-in-directed-graph/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ejaz0331/Leetcode/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
