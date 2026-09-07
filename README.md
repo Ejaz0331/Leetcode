@@ -724,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3316-find-maximum-removals-from-source-string](https://github.com/Ejaz0331/Leetcode/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Ejaz0331/Leetcode/tree/main/3335-total-characters-in-string-after-transformations-i/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Ejaz0331/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
+| [3458-select-k-disjoint-special-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/3458-select-k-disjoint-special-substrings/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -810,6 +811,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3316-find-maximum-removals-from-source-string](https://github.com/Ejaz0331/Leetcode/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Ejaz0331/Leetcode/tree/main/3335-total-characters-in-string-after-transformations-i/) | Medium |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Ejaz0331/Leetcode/tree/main/3387-maximize-amount-after-two-days-of-conversions/) | Medium |
+| [3458-select-k-disjoint-special-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/3458-select-k-disjoint-special-substrings/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -1065,6 +1067,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |
 | [3429-paint-house-iv](https://github.com/Ejaz0331/Leetcode/tree/main/3429-paint-house-iv/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Ejaz0331/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
+| [3458-select-k-disjoint-special-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/3458-select-k-disjoint-special-substrings/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1248,6 +1251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Ejaz0331/Leetcode/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ejaz0331/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Ejaz0331/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
+| [3458-select-k-disjoint-special-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/3458-select-k-disjoint-special-substrings/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1532,6 +1536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Ejaz0331/Leetcode/tree/main/3180-maximum-total-reward-using-operations-i/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Ejaz0331/Leetcode/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |
+| [3458-select-k-disjoint-special-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/3458-select-k-disjoint-special-substrings/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
