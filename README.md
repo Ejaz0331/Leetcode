@@ -800,6 +800,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ejaz0331/Leetcode/tree/main/2147-number-of-ways-to-divide-a-long-corridor/) | Hard |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Ejaz0331/Leetcode/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2266-count-number-of-texts](https://github.com/Ejaz0331/Leetcode/tree/main/2266-count-number-of-texts/) | Medium |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ejaz0331/Leetcode/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 | [2746-decremental-string-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/2746-decremental-string-concatenation/) | Medium |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2896-apply-operations-to-make-two-strings-equal/) | Medium |
@@ -1019,6 +1020,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2304-minimum-path-cost-in-a-grid/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Ejaz0331/Leetcode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Ejaz0331/Leetcode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ejaz0331/Leetcode/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Ejaz0331/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2746-decremental-string-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/2746-decremental-string-concatenation/) | Medium |
@@ -1255,6 +1257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1824-minimum-sideway-jumps](https://github.com/Ejaz0331/Leetcode/tree/main/1824-minimum-sideway-jumps/) | Medium |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Ejaz0331/Leetcode/tree/main/2086-minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Ejaz0331/Leetcode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ejaz0331/Leetcode/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Ejaz0331/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/Ejaz0331/Leetcode/tree/main/2811-check-if-it-is-possible-to-split-array/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
@@ -1952,6 +1955,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-sort-integers-by-the-power-value](https://github.com/Ejaz0331/Leetcode/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Ejaz0331/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ejaz0331/Leetcode/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3040-maximum-number-of-operations-with-the-same-score-ii/) | Medium |
 ## Kosaraju's Algorithm
