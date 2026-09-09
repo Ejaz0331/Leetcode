@@ -1022,6 +1022,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Ejaz0331/Leetcode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ejaz0331/Leetcode/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Ejaz0331/Leetcode/tree/main/2320-count-number-of-ways-to-place-houses/) | Medium |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/Ejaz0331/Leetcode/tree/main/2327-number-of-people-aware-of-a-secret/) | Medium |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Ejaz0331/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2746-decremental-string-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/2746-decremental-string-concatenation/) | Medium |
@@ -1584,6 +1585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1646-get-maximum-in-generated-array](https://github.com/Ejaz0331/Leetcode/tree/main/1646-get-maximum-in-generated-array/) | Easy |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/Ejaz0331/Leetcode/tree/main/2327-number-of-people-aware-of-a-secret/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Ejaz0331/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ejaz0331/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2961-double-modular-exponentiation](https://github.com/Ejaz0331/Leetcode/tree/main/2961-double-modular-exponentiation/) | Medium |
@@ -1838,6 +1840,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1425-constrained-subsequence-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1670-design-front-middle-back-queue](https://github.com/Ejaz0331/Leetcode/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [1696-jump-game-vi](https://github.com/Ejaz0331/Leetcode/tree/main/1696-jump-game-vi/) | Medium |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/Ejaz0331/Leetcode/tree/main/2327-number-of-people-aware-of-a-secret/) | Medium |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Ejaz0331/Leetcode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
