@@ -585,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2501-longest-square-streak-in-an-array](https://github.com/Ejaz0331/Leetcode/tree/main/2501-longest-square-streak-in-an-array/) | Medium |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
+| [2560-house-robber-iv](https://github.com/Ejaz0331/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Ejaz0331/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/Ejaz0331/Leetcode/tree/main/2662-minimum-cost-of-a-path-with-special-roads/) | Medium |
@@ -1040,6 +1041,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2501-longest-square-streak-in-an-array](https://github.com/Ejaz0331/Leetcode/tree/main/2501-longest-square-streak-in-an-array/) | Medium |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Ejaz0331/Leetcode/tree/main/2522-partition-string-into-substrings-with-values-at-most-k/) | Medium |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
+| [2560-house-robber-iv](https://github.com/Ejaz0331/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Ejaz0331/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2746-decremental-string-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/2746-decremental-string-concatenation/) | Medium |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/2750-ways-to-split-array-into-good-subarrays/) | Medium |
@@ -1277,6 +1279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Ejaz0331/Leetcode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ejaz0331/Leetcode/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Ejaz0331/Leetcode/tree/main/2522-partition-string-into-substrings-with-values-at-most-k/) | Medium |
+| [2560-house-robber-iv](https://github.com/Ejaz0331/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Ejaz0331/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/Ejaz0331/Leetcode/tree/main/2811-check-if-it-is-possible-to-split-array/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
@@ -1392,6 +1395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-two-best-non-overlapping-events](https://github.com/Ejaz0331/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2501-longest-square-streak-in-an-array](https://github.com/Ejaz0331/Leetcode/tree/main/2501-longest-square-streak-in-an-array/) | Medium |
+| [2560-house-robber-iv](https://github.com/Ejaz0331/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2826-sorting-three-groups](https://github.com/Ejaz0331/Leetcode/tree/main/2826-sorting-three-groups/) | Medium |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Ejaz0331/Leetcode/tree/main/2830-maximize-the-profit-as-the-salesman/) | Medium |
