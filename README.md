@@ -582,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
+| [2501-longest-square-streak-in-an-array](https://github.com/Ejaz0331/Leetcode/tree/main/2501-longest-square-streak-in-an-array/) | Medium |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Ejaz0331/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -717,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2368-reachable-nodes-with-restrictions](https://github.com/Ejaz0331/Leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2370-longest-ideal-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ejaz0331/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2501-longest-square-streak-in-an-array](https://github.com/Ejaz0331/Leetcode/tree/main/2501-longest-square-streak-in-an-array/) | Medium |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Ejaz0331/Leetcode/tree/main/2830-maximize-the-profit-as-the-salesman/) | Medium |
@@ -1034,6 +1036,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Ejaz0331/Leetcode/tree/main/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps/) | Medium |
 | [2420-find-all-good-indices](https://github.com/Ejaz0331/Leetcode/tree/main/2420-find-all-good-indices/) | Medium |
 | [2466-count-ways-to-build-good-strings](https://github.com/Ejaz0331/Leetcode/tree/main/2466-count-ways-to-build-good-strings/) | Medium |
+| [2501-longest-square-streak-in-an-array](https://github.com/Ejaz0331/Leetcode/tree/main/2501-longest-square-streak-in-an-array/) | Medium |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Ejaz0331/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2746-decremental-string-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/2746-decremental-string-concatenation/) | Medium |
@@ -1385,6 +1388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2008-maximum-earnings-from-taxi](https://github.com/Ejaz0331/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Ejaz0331/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
+| [2501-longest-square-streak-in-an-array](https://github.com/Ejaz0331/Leetcode/tree/main/2501-longest-square-streak-in-an-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2826-sorting-three-groups](https://github.com/Ejaz0331/Leetcode/tree/main/2826-sorting-three-groups/) | Medium |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Ejaz0331/Leetcode/tree/main/2830-maximize-the-profit-as-the-salesman/) | Medium |
@@ -1561,6 +1565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2008-maximum-earnings-from-taxi](https://github.com/Ejaz0331/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Ejaz0331/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Ejaz0331/Leetcode/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
+| [2501-longest-square-streak-in-an-array](https://github.com/Ejaz0331/Leetcode/tree/main/2501-longest-square-streak-in-an-array/) | Medium |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Ejaz0331/Leetcode/tree/main/2830-maximize-the-profit-as-the-salesman/) | Medium |
