@@ -586,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2560-house-robber-iv](https://github.com/Ejaz0331/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/Ejaz0331/Leetcode/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Ejaz0331/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/Ejaz0331/Leetcode/tree/main/2662-minimum-cost-of-a-path-with-special-roads/) | Medium |
@@ -1042,6 +1043,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Ejaz0331/Leetcode/tree/main/2522-partition-string-into-substrings-with-values-at-most-k/) | Medium |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2560-house-robber-iv](https://github.com/Ejaz0331/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/Ejaz0331/Leetcode/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Ejaz0331/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2746-decremental-string-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/2746-decremental-string-concatenation/) | Medium |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/2750-ways-to-split-array-into-good-subarrays/) | Medium |
@@ -1340,6 +1342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2266-count-number-of-texts](https://github.com/Ejaz0331/Leetcode/tree/main/2266-count-number-of-texts/) | Medium |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Ejaz0331/Leetcode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Ejaz0331/Leetcode/tree/main/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps/) | Medium |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/Ejaz0331/Leetcode/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Ejaz0331/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/2750-ways-to-split-array-into-good-subarrays/) | Medium |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ejaz0331/Leetcode/tree/main/2827-number-of-beautiful-integers-in-the-range/) | Hard |
@@ -1753,6 +1756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Ejaz0331/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Ejaz0331/Leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/Ejaz0331/Leetcode/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Ejaz0331/Leetcode/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ejaz0331/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Dijkstra's Algorithm
@@ -1808,6 +1812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [2172-maximum-and-sum-of-array](https://github.com/Ejaz0331/Leetcode/tree/main/2172-maximum-and-sum-of-array/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/Ejaz0331/Leetcode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/Ejaz0331/Leetcode/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/Ejaz0331/Leetcode/tree/main/2959-number-of-possible-sets-of-closing-branches/) | Hard |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Ejaz0331/Leetcode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
@@ -1834,6 +1839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1655-distribute-repeating-integers](https://github.com/Ejaz0331/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [2172-maximum-and-sum-of-array](https://github.com/Ejaz0331/Leetcode/tree/main/2172-maximum-and-sum-of-array/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/Ejaz0331/Leetcode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/Ejaz0331/Leetcode/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2850-minimum-moves-to-spread-stones-over-grid/) | Medium |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 ## Prefix Sum
