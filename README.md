@@ -577,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Ejaz0331/Leetcode/tree/main/2304-minimum-path-cost-in-a-grid/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Ejaz0331/Leetcode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Ejaz0331/Leetcode/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Ejaz0331/Leetcode/tree/main/2369-check-if-there-is-a-valid-partition-for-the-array/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Ejaz0331/Leetcode/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
@@ -1023,6 +1024,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ejaz0331/Leetcode/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Ejaz0331/Leetcode/tree/main/2320-count-number-of-ways-to-place-houses/) | Medium |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Ejaz0331/Leetcode/tree/main/2327-number-of-people-aware-of-a-secret/) | Medium |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Ejaz0331/Leetcode/tree/main/2369-check-if-there-is-a-valid-partition-for-the-array/) | Medium |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Ejaz0331/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2746-decremental-string-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/2746-decremental-string-concatenation/) | Medium |
