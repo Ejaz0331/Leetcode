@@ -1033,6 +1033,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Ejaz0331/Leetcode/tree/main/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps/) | Medium |
 | [2420-find-all-good-indices](https://github.com/Ejaz0331/Leetcode/tree/main/2420-find-all-good-indices/) | Medium |
+| [2466-count-ways-to-build-good-strings](https://github.com/Ejaz0331/Leetcode/tree/main/2466-count-ways-to-build-good-strings/) | Medium |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Ejaz0331/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2746-decremental-string-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/2746-decremental-string-concatenation/) | Medium |
