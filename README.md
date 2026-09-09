@@ -808,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ejaz0331/Leetcode/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 | [2370-longest-ideal-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Ejaz0331/Leetcode/tree/main/2522-partition-string-into-substrings-with-values-at-most-k/) | Medium |
 | [2746-decremental-string-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/2746-decremental-string-concatenation/) | Medium |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Ejaz0331/Leetcode/tree/main/2896-apply-operations-to-make-two-strings-equal/) | Medium |
@@ -1037,6 +1038,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2420-find-all-good-indices](https://github.com/Ejaz0331/Leetcode/tree/main/2420-find-all-good-indices/) | Medium |
 | [2466-count-ways-to-build-good-strings](https://github.com/Ejaz0331/Leetcode/tree/main/2466-count-ways-to-build-good-strings/) | Medium |
 | [2501-longest-square-streak-in-an-array](https://github.com/Ejaz0331/Leetcode/tree/main/2501-longest-square-streak-in-an-array/) | Medium |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Ejaz0331/Leetcode/tree/main/2522-partition-string-into-substrings-with-values-at-most-k/) | Medium |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Ejaz0331/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2746-decremental-string-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/2746-decremental-string-concatenation/) | Medium |
@@ -1274,6 +1276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Ejaz0331/Leetcode/tree/main/2086-minimum-number-of-food-buckets-to-feed-the-hamsters/) | Medium |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Ejaz0331/Leetcode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ejaz0331/Leetcode/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Ejaz0331/Leetcode/tree/main/2522-partition-string-into-substrings-with-values-at-most-k/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Ejaz0331/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/Ejaz0331/Leetcode/tree/main/2811-check-if-it-is-possible-to-split-array/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ejaz0331/Leetcode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
