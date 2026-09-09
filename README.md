@@ -1030,6 +1030,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Ejaz0331/Leetcode/tree/main/2369-check-if-there-is-a-valid-partition-for-the-array/) | Medium |
 | [2370-longest-ideal-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Ejaz0331/Leetcode/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Ejaz0331/Leetcode/tree/main/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps/) | Medium |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Ejaz0331/Leetcode/tree/main/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Ejaz0331/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2746-decremental-string-concatenation](https://github.com/Ejaz0331/Leetcode/tree/main/2746-decremental-string-concatenation/) | Medium |
@@ -1326,6 +1327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ejaz0331/Leetcode/tree/main/2147-number-of-ways-to-divide-a-long-corridor/) | Hard |
 | [2266-count-number-of-texts](https://github.com/Ejaz0331/Leetcode/tree/main/2266-count-number-of-texts/) | Medium |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Ejaz0331/Leetcode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Ejaz0331/Leetcode/tree/main/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Ejaz0331/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ejaz0331/Leetcode/tree/main/2750-ways-to-split-array-into-good-subarrays/) | Medium |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ejaz0331/Leetcode/tree/main/2827-number-of-beautiful-integers-in-the-range/) | Hard |
@@ -2150,6 +2152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ejaz0331/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/Ejaz0331/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Ejaz0331/Leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Ejaz0331/Leetcode/tree/main/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps/) | Medium |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Ejaz0331/Leetcode/tree/main/2930-number-of-strings-which-can-be-rearranged-to-contain-substring/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ejaz0331/Leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Ejaz0331/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |
