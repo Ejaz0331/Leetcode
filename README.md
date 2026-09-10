@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Ejaz0331/Leetcode/tree/main/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Ejaz0331/Leetcode/tree/main/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Medium |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Ejaz0331/Leetcode/tree/main/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Hard |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/Ejaz0331/Leetcode/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Ejaz0331/Leetcode/tree/main/3820-pythagorean-distance-nodes-in-a-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3493-properties-graph](https://github.com/Ejaz0331/Leetcode/tree/main/3493-properties-graph/) | Medium |
 | [3528-unit-conversion-i](https://github.com/Ejaz0331/Leetcode/tree/main/3528-unit-conversion-i/) | Medium |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/Ejaz0331/Leetcode/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ejaz0331/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Ejaz0331/Leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
@@ -659,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ejaz0331/Leetcode/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ejaz0331/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/Ejaz0331/Leetcode/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ejaz0331/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ejaz0331/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -1111,6 +1114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3543-maximum-weighted-k-edge-path](https://github.com/Ejaz0331/Leetcode/tree/main/3543-maximum-weighted-k-edge-path/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ejaz0331/Leetcode/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ejaz0331/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/Ejaz0331/Leetcode/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
