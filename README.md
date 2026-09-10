@@ -657,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3524-find-x-value-of-array-i](https://github.com/Ejaz0331/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ejaz0331/Leetcode/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ejaz0331/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ejaz0331/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -1107,6 +1108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Ejaz0331/Leetcode/tree/main/3503-longest-palindrome-after-substring-concatenation-i/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Ejaz0331/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3543-maximum-weighted-k-edge-path](https://github.com/Ejaz0331/Leetcode/tree/main/3543-maximum-weighted-k-edge-path/) | Medium |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ejaz0331/Leetcode/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
