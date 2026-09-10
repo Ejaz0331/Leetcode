@@ -658,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3552-grid-teleportation-traversal](https://github.com/Ejaz0331/Leetcode/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ejaz0331/Leetcode/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ejaz0331/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ejaz0331/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ejaz0331/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -1109,6 +1110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3524-find-x-value-of-array-i](https://github.com/Ejaz0331/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3543-maximum-weighted-k-edge-path](https://github.com/Ejaz0331/Leetcode/tree/main/3543-maximum-weighted-k-edge-path/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ejaz0331/Leetcode/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ejaz0331/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1790,6 +1792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ejaz0331/Leetcode/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ejaz0331/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Ejaz0331/Leetcode/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ejaz0331/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1867,6 +1870,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ejaz0331/Leetcode/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Ejaz0331/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Ejaz0331/Leetcode/tree/main/3473-sum-of-k-subarrays-with-length-at-least-m/) | Medium |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ejaz0331/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1876,6 +1880,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1696-jump-game-vi](https://github.com/Ejaz0331/Leetcode/tree/main/1696-jump-game-vi/) | Medium |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Ejaz0331/Leetcode/tree/main/2327-number-of-people-aware-of-a-secret/) | Medium |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Ejaz0331/Leetcode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ejaz0331/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2328,6 +2333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1425-constrained-subsequence-sum](https://github.com/Ejaz0331/Leetcode/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1696-jump-game-vi](https://github.com/Ejaz0331/Leetcode/tree/main/1696-jump-game-vi/) | Medium |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Ejaz0331/Leetcode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ejaz0331/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## Perfect Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
