@@ -662,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ejaz0331/Leetcode/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ejaz0331/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/Ejaz0331/Leetcode/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
+| [3599-partition-array-to-minimize-xor](https://github.com/Ejaz0331/Leetcode/tree/main/3599-partition-array-to-minimize-xor/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/Ejaz0331/Leetcode/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ejaz0331/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ejaz0331/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -1115,6 +1116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ejaz0331/Leetcode/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ejaz0331/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/Ejaz0331/Leetcode/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
+| [3599-partition-array-to-minimize-xor](https://github.com/Ejaz0331/Leetcode/tree/main/3599-partition-array-to-minimize-xor/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1830,6 +1832,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3376-minimum-time-to-break-locks-i](https://github.com/Ejaz0331/Leetcode/tree/main/3376-minimum-time-to-break-locks-i/) | Medium |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Ejaz0331/Leetcode/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ejaz0331/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3599-partition-array-to-minimize-xor](https://github.com/Ejaz0331/Leetcode/tree/main/3599-partition-array-to-minimize-xor/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Ejaz0331/Leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
@@ -1875,6 +1878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Ejaz0331/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Ejaz0331/Leetcode/tree/main/3473-sum-of-k-subarrays-with-length-at-least-m/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ejaz0331/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
+| [3599-partition-array-to-minimize-xor](https://github.com/Ejaz0331/Leetcode/tree/main/3599-partition-array-to-minimize-xor/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
