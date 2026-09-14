@@ -424,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/Ejaz0331/Leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0399-evaluate-division](https://github.com/Ejaz0331/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0403-frog-jump](https://github.com/Ejaz0331/Leetcode/tree/main/0403-frog-jump/) | Hard |
+| [0406-queue-reconstruction-by-height](https://github.com/Ejaz0331/Leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Ejaz0331/Leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ejaz0331/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -1567,6 +1568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/Ejaz0331/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Ejaz0331/Leetcode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/Ejaz0331/Leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0406-queue-reconstruction-by-height](https://github.com/Ejaz0331/Leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Ejaz0331/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0472-concatenated-words](https://github.com/Ejaz0331/Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ejaz0331/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -2274,11 +2276,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Ejaz0331/Leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1395-count-number-of-teams](https://github.com/Ejaz0331/Leetcode/tree/main/1395-count-number-of-teams/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Ejaz0331/Leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1395-count-number-of-teams](https://github.com/Ejaz0331/Leetcode/tree/main/1395-count-number-of-teams/) | Medium |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Ejaz0331/Leetcode/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
