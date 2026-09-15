@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/Ejaz0331/Leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/Ejaz0331/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ejaz0331/Leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/Ejaz0331/Leetcode/tree/main/0312-burst-balloons/) | Hard |
 | [0313-super-ugly-number](https://github.com/Ejaz0331/Leetcode/tree/main/0313-super-ugly-number/) | Medium |
@@ -1475,6 +1476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Ejaz0331/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Ejaz0331/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/Ejaz0331/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0355-design-twitter](https://github.com/Ejaz0331/Leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/Ejaz0331/Leetcode/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ejaz0331/Leetcode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
@@ -1627,6 +1629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Ejaz0331/Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/Ejaz0331/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Ejaz0331/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ejaz0331/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Simulation
@@ -2278,12 +2281,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Ejaz0331/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/Ejaz0331/Leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1395-count-number-of-teams](https://github.com/Ejaz0331/Leetcode/tree/main/1395-count-number-of-teams/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Ejaz0331/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/Ejaz0331/Leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1395-count-number-of-teams](https://github.com/Ejaz0331/Leetcode/tree/main/1395-count-number-of-teams/) | Medium |
@@ -2387,4 +2392,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1774-closest-dessert-cost](https://github.com/Ejaz0331/Leetcode/tree/main/1774-closest-dessert-cost/) | Medium |
+## Sqrt Decomposition
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Ejaz0331/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 <!---LeetCode Topics End-->
