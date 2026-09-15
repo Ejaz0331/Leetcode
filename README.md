@@ -768,6 +768,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Ejaz0331/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Ejaz0331/Leetcode/tree/main/0139-word-break/) | Medium |
+| [0306-additive-number](https://github.com/Ejaz0331/Leetcode/tree/main/0306-additive-number/) | Medium |
 | [0392-is-subsequence](https://github.com/Ejaz0331/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0399-evaluate-division](https://github.com/Ejaz0331/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0409-longest-palindrome](https://github.com/Ejaz0331/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
@@ -1434,6 +1435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Ejaz0331/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Ejaz0331/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0306-additive-number](https://github.com/Ejaz0331/Leetcode/tree/main/0306-additive-number/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Ejaz0331/Leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0494-target-sum](https://github.com/Ejaz0331/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Ejaz0331/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
